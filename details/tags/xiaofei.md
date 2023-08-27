@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-27 16:41:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-27 16:50:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 消费
 
@@ -8,4 +8,3 @@
 
 
 - [2023-08-21-茅台来了一位女将](https://www.aicaijing.com.cn/article/18587) 
-- [2023-06-27-面膜造富，比茅台还狠](https://www.aicaijing.com.cn/article/18399) 
