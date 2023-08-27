@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-08-27 08:24:23。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-08-27 16:41:21。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,8 +28,8 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
-- [【推荐资讯】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
-- [【推荐资讯】大模型混战上海滩](https://www.aicaijing.com.cn/article/18440)
+- [【财联社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
+- [【财联社】大模型混战上海滩](https://www.aicaijing.com.cn/article/18440)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -48,7 +48,7 @@
 
 - [【AI财经社】【温州市域铁路S2线开通运营】众合科技消息，8月26日，搭载着众合科技自主研发BiTRACON型信号系统的温州市域铁路S2线一期工程正式开通运营。众合科技全国产化自...](https://www.fx678.com/C/20230826/202308261844141122.html)
 - [【AI财经社】【“香港科大—雄彬一号”卫星顺利升空-港科大遥感卫星星座计划正式开展】香港科技大学（港科大）26日举行卫星发射庆祝典礼，宣布“香港科大—雄彬一号”高分辨...](https://www.fx678.com/C/20230826/202308262153461126.html)
-- [【推荐资讯】疯抢AI芯片：机房拆旧货，一片卖10万](https://www.aicaijing.com.cn/article/18393)
+- [【财联社】疯抢AI芯片：机房拆旧货，一片卖10万](https://www.aicaijing.com.cn/article/18393)
 - [【财联社】炬光科技：拟以2520万元-5040万元回购股份](https://api3.cls.cn/share/article/1445292?os=web&sv=7.7.5&app=CailianpressWeb)
 - [【财联社】容百科技：预计第三季度经营状况良好-将启动磷酸锰铁锂的全球发展战略](https://api3.cls.cn/share/article/1445294?os=web&sv=7.7.5&app=CailianpressWeb)
 - [【财联社】坤彩科技：子公司签订2.76亿元产品购销合同](https://api3.cls.cn/share/article/1445302?os=web&sv=7.7.5&app=CailianpressWeb)
@@ -76,7 +76,7 @@
 
 
 - [【AI财经社】茅台来了一位女将](https://www.aicaijing.com.cn/article/18587)
-- [【推荐资讯】面膜造富，比茅台还狠](https://www.aicaijing.com.cn/article/18399)
+- [【财联社】面膜造富，比茅台还狠](https://www.aicaijing.com.cn/article/18399)
 - [......【查看更多】......](/details/tags/xiaofei.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -112,6 +112,7 @@
 - [【AI财经社】【阿斯利康：已就医药价格谈判计划起诉美国政府】阿斯利康公司周五表示，已起诉美国政府，要求其阻止医疗保险计划中的部分内容。这家英国制药商向美国特拉华州地...](https://www.fx678.com/C/20230826/202308261844041123.html)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
+- [【财联社】越秀地产上半年销售逆势大增71%-屡被质疑“保守”的它都做对了什么？](https://www.cls.cn/detail/1445079)
 - [【财联社】财联社8月27日电，据中央纪委国家监委驻中国建设银行纪检监察组、河北省纪委监委消息，中国建设银行河北省分行原党委书记、行长李秀昆被开除党籍。](https://api3.cls.cn/share/article/1445264?os=web&sv=7.7.5&app=CailianpressWeb)
 - [【财联社】中国工商银行湖北省分行党委委员、副行长邱世杰接受审查调查](https://api3.cls.cn/share/article/1445259?os=web&sv=7.7.5&app=CailianpressWeb)
 - [【财联社】管涛：房地产领域或将出台政策组合拳](https://api3.cls.cn/share/article/1445221?os=web&sv=7.7.5&app=CailianpressWeb)

@@ -7,6 +7,7 @@
       placeholder="输入关键字搜索"
       shape="round"
       show-action
+      action-text="清空"
       @search="onSearch"
       @cancel="onCancel"
     >
@@ -55,11 +56,11 @@
     <!-- 固定右侧 -->
     <div class="tip-box">
       <van-icon class="tip-icon" name="bars" @click="doShowPopup" />
-      <van-icon
+      <!--   <van-icon
         class="tip-icon"
         name="https://lty-image-bed.oss-cn-shenzhen.aliyuncs.com/blog/Github.svg"
         @click="gotoGithub"
-      />
+      /> -->
       <van-icon class="tip-icon" name="arrow-up" @click="toTop" />
     </div>
 

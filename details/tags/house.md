@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-27 08:24:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-27 16:41:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -10,6 +10,7 @@
 - [2023-08-26-【阿斯利康：已就医药价格谈判计划起诉美国政府】阿斯利康公司周五表示，已起诉美国政府，要求其阻止医疗保险计划中的部分内容。这家英国制药商向美国特拉华州地...](https://www.fx678.com/C/20230826/202308261844041123.html) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
+- [2023-08-26-越秀地产上半年销售逆势大增71%-屡被质疑“保守”的它都做对了什么？](https://www.cls.cn/detail/1445079) 
 - [2023-08-27-财联社8月27日电，据中央纪委国家监委驻中国建设银行纪检监察组、河北省纪委监委消息，中国建设银行河北省分行原党委书记、行长李秀昆被开除党籍。](https://api3.cls.cn/share/article/1445264?os=web&sv=7.7.5&app=CailianpressWeb) 
 - [2023-08-27-中国工商银行湖北省分行党委委员、副行长邱世杰接受审查调查](https://api3.cls.cn/share/article/1445259?os=web&sv=7.7.5&app=CailianpressWeb) 
 - [2023-08-27-管涛：房地产领域或将出台政策组合拳](https://api3.cls.cn/share/article/1445221?os=web&sv=7.7.5&app=CailianpressWeb) 

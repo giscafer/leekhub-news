@@ -1,15 +1,15 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-27 08:24:23，:rocket: 更新条数: +31， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-27 16:41:21，:rocket: 更新条数: +29， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [AI财经社](#ai财经社)  
-- [推荐资讯](#推荐资讯)  
-- [专题报告](#专题报告)  
 - [财联社](#财联社)![](/assets/dot.png)   
-- [深度](#深度)![](/assets/dot.png)   
-- [7x24-小时快讯](#7x24-小时快讯)![](/assets/dot.png)   
+- [雪球热帖](#雪球热帖)![](/assets/dot.png)   
+- [财联社](#财联社)![](/assets/dot.png)   
+- [深度](#深度)  
+- [7x24-小时快讯](#7x24-小时快讯)  
 
 ## 文章链接
 
@@ -45,63 +45,63 @@
 </details>
 
 <details open>
-<summary id="推荐资讯">
- 推荐资讯
+<summary id="财联社">
+ 财联社
 </summary>
 
 
-- [2023-08-27-闷声发财的网易，杀回第五大厂](https://www.aicaijing.com.cn/article/18610)  
 - [2023-08-27-美团守住了擂台](https://www.aicaijing.com.cn/article/18611)  
-- [2023-08-17-大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)  
-- [2023-08-13-年入90亿山东富豪，请来梅西卖酒](https://www.aicaijing.com.cn/article/18559)  
-- [2023-08-06-拥抱辣妹，优衣库押对了](https://www.aicaijing.com.cn/article/18525)  
-- [2023-08-05-加盟奶茶店是一门好生意吗？](https://www.aicaijing.com.cn/article/18524)  
-- [2023-07-30-《芭比》，女性生意收割机的照妖镜](https://www.aicaijing.com.cn/article/18503)  
-- [2023-07-30-小马智行楼天城：被资本裹挟不是坏事，被忽视才是](https://www.aicaijing.com.cn/article/18502)  
-- [2023-07-30-水井坊跌惨了](https://www.aicaijing.com.cn/article/18501)  
-- [2023-07-29-市值飙增88亿，俞敏洪因祸得福](https://www.aicaijing.com.cn/article/18500)  
-- [2023-07-29-硬汉吴京，让大窑站起来了](https://www.aicaijing.com.cn/article/18499)  
-- [2023-07-11-被嘲笑的理想汽车，怎么又香了？](https://www.aicaijing.com.cn/article/18447)  
-- [2023-07-11-这届年轻人流行用9.9搞定午餐](https://www.aicaijing.com.cn/article/18446)  
-- [2023-07-10-知乎失去匿名，压力给到脉脉](https://www.aicaijing.com.cn/article/18443)  
-- [2023-07-09-谁在买马自达？](https://www.aicaijing.com.cn/article/18441)  
-- [2023-07-09-大模型混战上海滩](https://www.aicaijing.com.cn/article/18440)  
-- [2023-07-08-手握166亿，福建前首富决定退市](https://www.aicaijing.com.cn/article/18438)  
-- [2023-07-08-背靠千亿私募大佬，长安基金怎么长不大？](https://www.aicaijing.com.cn/article/18437)  
-- [2023-07-05-一下省十几万，装修也能团购了](https://www.aicaijing.com.cn/article/18425)  
-- [2023-07-03-大额存单，又抢疯了](https://www.aicaijing.com.cn/article/18418)  
-- [......【查看更多】......](/details/推荐资讯.md)
+- [2023-08-27-闷声发财的网易，杀回第五大厂](https://www.aicaijing.com.cn/article/18610)  
+- [2023-08-27-京东原副总裁蔡磊突然宣布：已在准备身后事-4年前确诊渐冻症](https://www.cls.cn/detail/1444035) ![](/assets/new.png)  
+- [2023-08-27-世卫组织：脊灰病毒传播风险仍构成“国际关注的突发公共卫生事件”](https://www.cls.cn/detail/1443983) ![](/assets/new.png)  
+- [2023-08-27-核污染水何时排完？日本东电这样说……](https://www.cls.cn/detail/1444033) ![](/assets/new.png)  
+- [2023-08-27-经济日报：核污染水不同于核废水](https://www.cls.cn/detail/1444031) ![](/assets/new.png)  
+- [2023-08-27-金融信创实质性推进箭在弦上！受益上市公司梳理](https://www.cls.cn/detail/1443748) ![](/assets/new.png)  
+- [2023-08-27-国家统计局：7月全国规模以上工业企业利润下降6.7%-降幅持续收窄](https://www.cls.cn/detail/1444027) ![](/assets/new.png)  
+- [2023-08-27-金砖国家领导人第十五次会晤就加强反腐败合作达成重要共识](https://www.cls.cn/detail/1444025) ![](/assets/new.png)  
+- [2023-08-27-直击2023成都车展之行业篇：“护盘”燃油车-传统品牌“小步快跑”电动化](https://www.cls.cn/detail/1445218) ![](/assets/new.png)  
+- [2023-08-27-国金策略：“箭已在弦”-反弹开启在即](https://www.cls.cn/detail/1442317) ![](/assets/new.png)  
+- [2023-08-27-百亿级增量！引擎大厂看好、买量投放激增，小程序游戏的“春天”要来了？](https://www.cls.cn/detail/1445247) ![](/assets/new.png)  
+- [2023-08-27-碘钾片能防辐射？食盐之后，核辐射检测仪也“爆单”了！专家这样说](https://www.cls.cn/detail/1444022) ![](/assets/new.png)  
+- [2023-08-27-周末要闻汇总：-这板块要起飞？国常会最新定调！全链条支持这行业龙头发展](https://www.cls.cn/detail/1445299) ![](/assets/new.png)  
+- [2023-08-26-A股上市公司百亿信托“牌局”：900亿锂盐龙头豪掷24亿投资，小市值机械股变身背后“发牌人”，没抽到好牌的7家企业遇本金难收窘境](https://www.cls.cn/detail/1442970) ![](/assets/new.png)  
+- [2023-08-26-越秀地产上半年销售逆势大增71%-屡被质疑“保守”的它都做对了什么？](https://www.cls.cn/detail/1445079) ![](/assets/new.png)  
+- [2023-08-26-汽车行业进入存量竞争，快手发力汽车产业，推出品效运解决方案](https://www.cls.cn/detail/1445093) ![](/assets/new.png)  
+- [2023-08-26-环球下周看点：美国8月非农数据来袭-拼多多、蔚来公布财报](https://www.cls.cn/detail/1445095) ![](/assets/new.png)  
+- [2023-08-26-拉加德：欧央行将把利率设定在必要水平-不会改变通胀目标](https://www.cls.cn/detail/1445137) ![](/assets/new.png)  
+- [2023-08-26-北向资金“超级席位”悄悄调仓！净流出数百亿元持股量反在增加，布局这些股票](https://www.cls.cn/detail/1445142) ![](/assets/new.png)  
+- [......【查看更多】......](/details/财联社.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
 </details>
 
 <details open>
-<summary id="专题报告">
- 专题报告
+<summary id="雪球热帖">
+ 雪球热帖
 </summary>
 
 
+- [2023-08-27-@不明真相的群众-方丈是不是只有中国人人口锐减，人民的收入待遇才能提升上去。](https://xueqiu.com/5219644076/259419201) ![](/assets/new.png)  
+- [2023-08-27-一个人成长最快的方式：深度工作](https://xueqiu.com/2524803655/259419410) ![](/assets/new.png)  
+- [2023-08-27-本轮熊市上证低点大约在2600-2100之间，对应港股恒指16000-12000，时间大约在今年底或者明年初。其后会有一次持续半年以上指数涨幅在30%左右的大B浪反弹行情，期...](https://xueqiu.com/5055730096/259421284) ![](/assets/new.png)  
+- [2023-08-27-导致亏损的主要原因](https://xueqiu.com/2201555376/259422113) ![](/assets/new.png)  
+- [2023-08-27-很多人肯定不认可这个结论，但却是事实](https://xueqiu.com/6146592061/259423621) ![](/assets/new.png)  
+- [2023-08-27-认为中国人的特点之一是对赌博的爱好其实就是一种赤裸裸的歧视！我就不赌，我见过很多不喜欢赌博的中国人，也见过喜欢赌博的白人，比如米克尔森。喜欢赌博其实就...](https://xueqiu.com/1247347556/259428890) ![](/assets/new.png)  
+- [2023-08-26-随着昨晚老窖分红到账，2022年股票投资的收益已经全部到手。这个投资收益与市场牛熊无关，与新股发行量无关，与印花税无关，与管理层对大A的定位无关。也就是说...](https://xueqiu.com/6943894433/259409777) ![](/assets/new.png)  
+- [2023-08-26-古罗马皇帝奥勒留《沉思录》](https://xueqiu.com/2524803655/259410735) ![](/assets/new.png)  
+- [2023-08-26-当医疗遇到金融，平安健康迎来“拨云见日”时](https://xueqiu.com/4660283758/259412475) ![](/assets/new.png)  
 - [2023-08-07-低延迟趋势线与交易性择时-短线择时策略-广发证券20130726](https://bigquant.com/wiki/doc/20130726-uzGjCAG5Ig)  
-- [2023-06-12-【方正金工】个股波动率的变动及“勇攀高峰”因子构建——多因子选股系列研究之三](https://bigquant.com/wiki/doc/44cq5pa55q2j6yer5bel44cr5liq6ikh5roi5yqo546h55qe5yy5yqo5yk4occ5yuh5psa6auy5bow4ocd5zug5a2q5p6e5bu64ocu4ocu5asa5zug5a2q6ycj6ikh57o75yix56cu56m25lml5lij-AmpLA1MdHN)  
-- [2023-06-12-【方正金工】个股成交量的潮汐变化及“潮汐”因子构建——多因子选股系列研究之二](https://bigquant.com/wiki/doc/44cq5pa55q2j6yer5bel44cr5liq6ikh5oiq5lqk6yep55qe5r2u5rgq5yy5yyw5yk4occ5r2u5rgq4ocd5zug5a2q5p6e5bu64ocu4ocu5asa5zug5a2q6ycj6ikh57o75yix56cu56m25lml5lqm-RAsVk6yDUx)  
-- [2023-06-12-【方正金工】成交量激增时刻蕴含的alpha信息——多因子选股系列研究之一](https://bigquant.com/wiki/doc/alpha-mVbNMncBPm)  
 - [2023-06-12-【方正金工】波动率的波动率与投资者模糊性厌恶——多因子选股系列研究之五](https://bigquant.com/wiki/doc/44cq5pa55q2j6yer5bel44cr5roi5yqo546h55qe5roi5yqo546h5lio5oqv6lwe6icf5qih57ok5ocn5y6m5og24ocu4ocu5asa5zug5a2q6ycj6ikh57o75yix56cu56m25lml5lqu-OeSNIkQANe)  
-- [2023-06-09-因子](https://bigquant.com/wiki/doc/5zug5a2q-TOdr2yGiUF)  
-- [2023-06-09-推动个股价格变化的因素分解与“花隐林间”因子——多因子选股系列研究之十【方正金工】-副本](https://bigquant.com/wiki/doc/5o6o5yqo5liq6ikh5lu35qc85yy5yyw55qe5zug57sg5yig6kej5lio4occ6iqx6zqq5p6x6ze04ocd5zug5a2q4ocu4ocu5asa5zug5a2q6ycj6ikh57o75yix56cu56m25lml5y2b44cq5pa55q2j6yer5bel44cricjliamnkwp-ldzrE9Ez94)  
-- [2023-06-09-因子](https://bigquant.com/wiki/doc/5zug5a2q-yjECKYnrnk)  
+- [2023-06-12-【方正金工】成交量激增时刻蕴含的alpha信息——多因子选股系列研究之一](https://bigquant.com/wiki/doc/alpha-mVbNMncBPm)  
+- [2023-06-12-【方正金工】个股成交量的潮汐变化及“潮汐”因子构建——多因子选股系列研究之二](https://bigquant.com/wiki/doc/44cq5pa55q2j6yer5bel44cr5liq6ikh5oiq5lqk6yep55qe5r2u5rgq5yy5yyw5yk4occ5r2u5rgq4ocd5zug5a2q5p6e5bu64ocu4ocu5asa5zug5a2q6ycj6ikh57o75yix56cu56m25lml5lqm-RAsVk6yDUx)  
+- [2023-06-12-【方正金工】个股波动率的变动及“勇攀高峰”因子构建——多因子选股系列研究之三](https://bigquant.com/wiki/doc/44cq5pa55q2j6yer5bel44cr5liq6ikh5roi5yqo546h55qe5yy5yqo5yk4occ5yuh5psa6auy5bow4ocd5zug5a2q5p6e5bu64ocu4ocu5asa5zug5a2q6ycj6ikh57o75yix56cu56m25lml5lij-AmpLA1MdHN)  
 - [2023-06-09-【方正金工】个股成交额的市场跟随性与“水中行舟”因子——多因子选股系列研究之九](https://bigquant.com/wiki/doc/44cq5pa55q2j6yer5bel44cr5liq6ikh5oiq5lqk6akd55qe5bic5zy66lef6zqp5ocn5lio4occ5rc05lit6kgm6iif4ocd5zug5a2q4ocu4ocu5asa5zug5a2q6ycj6ikh57o75yix56cu56m25lml5lmdia-uJ2mq8I9A1)  
+- [2023-06-09-因子](https://bigquant.com/wiki/doc/5zug5a2q-yjECKYnrnk)  
+- [2023-06-09-推动个股价格变化的因素分解与“花隐林间”因子——多因子选股系列研究之十【方正金工】-副本](https://bigquant.com/wiki/doc/5o6o5yqo5liq6ikh5lu35qc85yy5yyw55qe5zug57sg5yig6kej5lio4occ6iqx6zqq5p6x6ze04ocd5zug5a2q4ocu4ocu5asa5zug5a2q6ycj6ikh57o75yix56cu56m25lml5y2b44cq5pa55q2j6yer5bel44cricjliamnkwp-ldzrE9Ez94)  
+- [2023-06-09-因子](https://bigquant.com/wiki/doc/5zug5a2q-TOdr2yGiUF)  
 - [2023-06-05-【方正金工】成交量激增时刻蕴含的alpha信息——多因子选股系列研究之一](https://bigquant.com/wiki/doc/alpha-SUTA96B6Ip)  
 - [2023-06-02-高频](https://bigquant.com/wiki/doc/6auy6akr-w0kZ9NORGI)  
-- [2023-05-31-](https://bigquant.com/wiki/doc/untitled-Hb77Cjq2n2)  
-- [2023-05-31-东方期货指标说明v1.0](https://bigquant.com/wiki/doc/v10-uAzIvWYoEV)  
-- [2023-05-31-makefile](https://bigquant.com/wiki/doc/makefile-DE1IWvCggd)  
-- [2023-05-30-寻找另类Alpha因子系列之一：基于新闻舆情数据的选股因子-中泰证券-20200824-副本](https://bigquant.com/wiki/doc/alpha-20200824-BNhJeQ6CvC)  
-- [2023-05-24-Smart-beta-策略中的“肉”在哪里？-副本](https://bigquant.com/wiki/doc/smart-beta-HwGGMv2spW)  
-- [2023-05-24-Smart-beta-策略中的“肉”在哪里？-副本-副本](https://bigquant.com/wiki/doc/smart-beta-XnrYemVfHR)  
-- [2023-05-24-基金经理行业择时能力与基金业绩-副本](https://bigquant.com/wiki/doc/5z66yer57up55cg6kgm5lia5oup5pe26io95yqb5lio5z66yer5lia57upicjliamnkwp-2WV2Rri001)  
-- [2023-05-24-基金经理行业择时能力与基金业绩-副本-副本](https://bigquant.com/wiki/doc/5z66yer57up55cg6kgm5lia5oup5pe26io95yqb5lio5z66yer5lia57upicjliamnkwpicjliamnkwp-QKARPp9nAG)  
-- [2023-05-16-推动个股价格变化的因素分解与“花隐林间”因子——多因子选股系列研究之十【方正金工】](https://bigquant.com/wiki/doc/5o6o5yqo5liq6ikh5lu35qc85yy5yyw55qe5zug57sg5yig6kej5lio4occ6iqx6zqq5p6x6ze04ocd5zug5a2q4ocu4ocu5asa5zug5a2q6ycj6ikh57o75yix56cu56m25lml5y2b44cq5pa55q2j6yer5bel44cr-cZla0LBFld)  
-- [......【查看更多】......](/details/专题报告.md)
+- [......【查看更多】......](/details/雪球热帖.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
 </details>
