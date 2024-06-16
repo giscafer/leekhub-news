@@ -66,7 +66,7 @@ const handleFeed = () => {
           newData.length += newItems.length
           linksJson[rssIndex] = {
             title: rssItem.title,
-            items: newItems.concat(items).sort((a, b) => (a.date < b.date ? 1 : -1))
+            items: newItems.concat(items).sort((a, b) => (a.date < b.date ? 1 : -1)).slice(0, 20)
           }
         }
       }
