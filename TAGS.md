@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-16 14:31:04。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-16 15:31:02。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -45,6 +45,7 @@
 
 
 
+- [【财联社】【明日主题前瞻】三星计划下半年量产采用GAA技术的第二代3nm芯片](https://www.cls.cn/detail/1704397)
 - [......【查看更多】......](/details/tags/tech.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
