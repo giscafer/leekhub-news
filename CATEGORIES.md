@@ -1,12 +1,12 @@
 ##
 
-:alarm_clock: 更新时间: 2023-08-27 17:19:15，:rocket: 更新条数: +10， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-16 13:09:36，:rocket: 更新条数: +20， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [AI财经社](#ai财经社)  
 - [财联社](#财联社)  
-- [雪球热帖](#雪球热帖)  
+- [雪球热帖](#雪球热帖)![](/assets/dot.png)   
 - [投资界](#投资界)![](/assets/dot.png)   
 
 ## 文章链接
@@ -79,15 +79,25 @@
 </summary>
 
 
-- [2023-08-27-@不明真相的群众-方丈是不是只有中国人人口锐减，人民的收入待遇才能提升上去。](https://xueqiu.com/5219644076/259419201)  
-- [2023-08-27-一个人成长最快的方式：深度工作](https://xueqiu.com/2524803655/259419410)  
-- [2023-08-27-本轮熊市上证低点大约在2600-2100之间，对应港股恒指16000-12000，时间大约在今年底或者明年初。其后会有一次持续半年以上指数涨幅在30%左右的大B浪反弹行情，期...](https://xueqiu.com/5055730096/259421284)  
-- [2023-08-27-导致亏损的主要原因](https://xueqiu.com/2201555376/259422113)  
-- [2023-08-27-很多人肯定不认可这个结论，但却是事实](https://xueqiu.com/6146592061/259423621)  
+- [2024-06-16-回复@Frank_X:-全球“高端白酒”数不胜数，好生意的有几个？全球所有酒的生意赚的钱加起来也可能没苹果多（我没算过），你咋会觉得白酒是比苹果好的生意呢？//@F...](https://xueqiu.com/1247347556/293939028) ![](/assets/new.png)  
+- [2024-06-16-美国AI-7巨头调研总结](https://xueqiu.com/8029098291/293942392) ![](/assets/new.png)  
+- [2024-06-16-菜刀门派：高息股投资](https://xueqiu.com/1760673340/293945077) ![](/assets/new.png)  
+- [2024-06-16-我给大家一个最原始的投资思路。现在市场上所有股票，a，h,包括美股，都在可选范围内。这些公司都不是上市公司，只是一个普通公司，以后也永远不会上市。你买入...](https://xueqiu.com/9887656769/293947521) ![](/assets/new.png)  
+- [2024-06-15-再论roe，如果有三个同行业公司。一个1.3pb，roe在15-20%波动一个0.9pb，roe在10%上下一个0.6pb，roe在5-9%波动短中期来看，或者持仓周期在几个月到1-2年。你是...](https://xueqiu.com/9887656769/293906591) ![](/assets/new.png)  
+- [2024-06-15-$贵州茅台SH600519$茅台还是那个茅台！](https://xueqiu.com/1247347556/293915356) ![](/assets/new.png)  
+- [2024-06-15-段永平对茅台全部的点评，每句话都标明了时间](https://xueqiu.com/8959246745/293920716) ![](/assets/new.png)  
+- [2024-06-15-挚爱子洲的投资经历](https://xueqiu.com/7123126150/293923697) ![](/assets/new.png)  
+- [2024-06-15-回复@大道无形我有型:-我们电子产品行业要是碰上不好卖的时候，后果是很严重的。茅台碰上不好卖的时候，只是被动地又多了一些年份酒而已（以后赚得更多.//@大道...](https://xueqiu.com/1247347556/293924911) ![](/assets/new.png)  
+- [2024-06-15-到底哪个指标最重要？](https://xueqiu.com/6146592061/293927421) ![](/assets/new.png)  
 - [2023-08-27-认为中国人的特点之一是对赌博的爱好其实就是一种赤裸裸的歧视！我就不赌，我见过很多不喜欢赌博的中国人，也见过喜欢赌博的白人，比如米克尔森。喜欢赌博其实就...](https://xueqiu.com/1247347556/259428890)  
-- [2023-08-26-随着昨晚老窖分红到账，2022年股票投资的收益已经全部到手。这个投资收益与市场牛熊无关，与新股发行量无关，与印花税无关，与管理层对大A的定位无关。也就是说...](https://xueqiu.com/6943894433/259409777)  
-- [2023-08-26-古罗马皇帝奥勒留《沉思录》](https://xueqiu.com/2524803655/259410735)  
+- [2023-08-27-很多人肯定不认可这个结论，但却是事实](https://xueqiu.com/6146592061/259423621)  
+- [2023-08-27-导致亏损的主要原因](https://xueqiu.com/2201555376/259422113)  
+- [2023-08-27-本轮熊市上证低点大约在2600-2100之间，对应港股恒指16000-12000，时间大约在今年底或者明年初。其后会有一次持续半年以上指数涨幅在30%左右的大B浪反弹行情，期...](https://xueqiu.com/5055730096/259421284)  
+- [2023-08-27-一个人成长最快的方式：深度工作](https://xueqiu.com/2524803655/259419410)  
+- [2023-08-27-@不明真相的群众-方丈是不是只有中国人人口锐减，人民的收入待遇才能提升上去。](https://xueqiu.com/5219644076/259419201)  
 - [2023-08-26-当医疗遇到金融，平安健康迎来“拨云见日”时](https://xueqiu.com/4660283758/259412475)  
+- [2023-08-26-古罗马皇帝奥勒留《沉思录》](https://xueqiu.com/2524803655/259410735)  
+- [2023-08-26-随着昨晚老窖分红到账，2022年股票投资的收益已经全部到手。这个投资收益与市场牛熊无关，与新股发行量无关，与印花税无关，与管理层对大A的定位无关。也就是说...](https://xueqiu.com/6943894433/259409777)  
 - [......【查看更多】......](/details/雪球热帖.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -99,16 +109,26 @@
 </summary>
 
 
-- [2023-08-25-SPAC上市之路](https://posts.careerengine.us/p/64e887fc6d861c1f569238db) ![](/assets/new.png)  
-- [2023-08-25-24岁，深创投执掌4400亿](https://posts.careerengine.us/p/64e887fc6d861c1f569238e3) ![](/assets/new.png)  
-- [2023-08-25-江浙沪藏着一座Old-Money城市](https://posts.careerengine.us/p/64e887fd6d861c1f569238eb) ![](/assets/new.png)  
-- [2023-08-24-黑石要来募人民币了](https://posts.careerengine.us/p/64e70b4adda1470469dc5d5c) ![](/assets/new.png)  
-- [2023-08-24-人民币LP江湖现状](https://posts.careerengine.us/p/64e70b5262b03a04a65bf63e) ![](/assets/new.png)  
-- [2023-08-24-长春正跑出一群IPO](https://posts.careerengine.us/p/64e70b5262b03a04a65bf636) ![](/assets/new.png)  
-- [2023-08-24-北上广深最挤地铁线](https://posts.careerengine.us/p/64e70b5a17610b04def3ffee) ![](/assets/new.png)  
-- [2023-08-23-四年干出DPI，真难](https://posts.careerengine.us/p/64e575b0ac29ec5145d4c7d8) ![](/assets/new.png)  
-- [2023-08-23-他们又投出一个硬核IPO](https://posts.careerengine.us/p/64e575b8d627d4515c0d2320) ![](/assets/new.png)  
-- [2023-08-23-揭秘三家产业资本](https://posts.careerengine.us/p/64e575b8d627d4515c0d2318) ![](/assets/new.png)  
+- [2024-06-15-今年，一波创业公司想卖了](https://posts.careerengine.us/p/666d449be60f530537516727) ![](/assets/new.png)  
+- [2024-06-14-600亿，香港大基金正式来了](https://posts.careerengine.us/p/666bf53d13fe8d207fb3545a) ![](/assets/new.png)  
+- [2024-06-14-大厂搬回五环内](https://posts.careerengine.us/p/666bf53d13fe8d207fb35452) ![](/assets/new.png)  
+- [2024-06-14-卷不动的汽车价格战](https://posts.careerengine.us/p/666bf54cac771b20ea72df0c) ![](/assets/new.png)  
+- [2024-06-13-大模型独角兽开始挤泡沫](https://posts.careerengine.us/p/666a694e2a54a2443d22c868) ![](/assets/new.png)  
+- [2024-06-13-国资LP开始延长存续期限了](https://posts.careerengine.us/p/666a694f2a54a2443d22c878) ![](/assets/new.png)  
+- [2024-06-13-三位校友今天IPO敲钟，200亿](https://posts.careerengine.us/p/666a694f2a54a2443d22c870) ![](/assets/new.png)  
+- [2024-06-13-湖南人「占领」深圳](https://posts.careerengine.us/p/666a695ec8aa6c44680643ae) ![](/assets/new.png)  
+- [2024-06-12-刚刚，国产数据库第一股暴涨200％](https://posts.careerengine.us/p/66693717038aef5ffa3b71ec) ![](/assets/new.png)  
+- [2024-06-12-投资界沙龙：低空经济起飞](https://posts.careerengine.us/p/6669372685818b606da5039f) ![](/assets/new.png)  
+- [2023-08-25-江浙沪藏着一座Old-Money城市](https://posts.careerengine.us/p/64e887fd6d861c1f569238eb)  
+- [2023-08-25-24岁，深创投执掌4400亿](https://posts.careerengine.us/p/64e887fc6d861c1f569238e3)  
+- [2023-08-25-SPAC上市之路](https://posts.careerengine.us/p/64e887fc6d861c1f569238db)  
+- [2023-08-24-北上广深最挤地铁线](https://posts.careerengine.us/p/64e70b5a17610b04def3ffee)  
+- [2023-08-24-长春正跑出一群IPO](https://posts.careerengine.us/p/64e70b5262b03a04a65bf636)  
+- [2023-08-24-人民币LP江湖现状](https://posts.careerengine.us/p/64e70b5262b03a04a65bf63e)  
+- [2023-08-24-黑石要来募人民币了](https://posts.careerengine.us/p/64e70b4adda1470469dc5d5c)  
+- [2023-08-23-揭秘三家产业资本](https://posts.careerengine.us/p/64e575b8d627d4515c0d2318)  
+- [2023-08-23-他们又投出一个硬核IPO](https://posts.careerengine.us/p/64e575b8d627d4515c0d2320)  
+- [2023-08-23-四年干出DPI，真难](https://posts.careerengine.us/p/64e575b0ac29ec5145d4c7d8)  
 - [......【查看更多】......](/details/投资界.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
