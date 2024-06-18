@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-17 23:30:53。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-18 00:45:00。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,6 +28,7 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
+- [【财联社】英伟达开源最强模型Nemotron-4-340B-有望带动光模块需求持续增长](https://www.cls.cn/detail/1706891)
 - [【投资界】大模型独角兽开始挤泡沫](https://posts.careerengine.us/p/666a694e2a54a2443d22c868)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -63,8 +64,8 @@
 
 
 - [【AI财经社】茅台来了一位女将](https://www.aicaijing.com.cn/article/18587)
-- [【雪球热帖】高端白酒再思考](https://xueqiu.com/9742512811/293947479)
 - [【雪球热帖】回复@Frank_X:-全球“高端白酒”数不胜数，好生意的有几个？全球所有酒的生意赚的钱加起来也可能没苹果多（我没算过），你咋会觉得白酒是比苹果好的生意呢？//@F...](https://xueqiu.com/1247347556/293939028)
+- [【雪球热帖】高端白酒再思考](https://xueqiu.com/9742512811/293947479)
 - [......【查看更多】......](/details/tags/xiaofei.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
