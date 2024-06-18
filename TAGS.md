@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-18 07:31:02。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-18 08:33:08。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -29,6 +29,7 @@
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
 - [【财联社】英伟达开源最强模型Nemotron-4-340B-有望带动光模块需求持续增长](https://www.cls.cn/detail/1706891)
+- [【投资界】大模型价格战40天](https://posts.careerengine.us/p/66713fc1f7253a1e2e703db7)
 - [【投资界】大模型独角兽开始挤泡沫](https://posts.careerengine.us/p/666a694e2a54a2443d22c868)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -46,8 +47,8 @@
 
 
 
-- [【财联社】【午报】三大指数全线飘红！泛科技方向延续强势，车路云一体化概念股批量涨停](https://www.cls.cn/detail/1707206)
 - [【财联社】AI浪潮推动消费电子大爆发，半导体中的这一细分正悄然走强](https://www.cls.cn/detail/1707017)
+- [【财联社】【午报】三大指数全线飘红！泛科技方向延续强势，车路云一体化概念股批量涨停](https://www.cls.cn/detail/1707206)
 - [......【查看更多】......](/details/tags/tech.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -65,6 +66,8 @@
 
 
 - [【AI财经社】茅台来了一位女将](https://www.aicaijing.com.cn/article/18587)
+- [【雪球热帖】$贵州茅台SH600519$-不要以为茅台批价短期调整，就会动了茅台基本面。有人担心（或臆想）茅台动销问题，担心业绩问题。我做个极端假设，即便终端市场一瓶茅台...](https://xueqiu.com/9262059293/294179741)
+- [【雪球热帖】$贵州茅台SH600519$-不明白现在卖出茅台的人脑子是怎么想的，如果茅台再开发一种矿泉水那就不止这个价了](https://xueqiu.com/2191415336/294208987)
 - [......【查看更多】......](/details/tags/xiaofei.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
