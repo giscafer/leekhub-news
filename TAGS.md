@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-18 05:31:54。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-18 06:34:04。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -46,9 +46,8 @@
 
 
 
-- [【财联社】【午报】三大指数全线飘红！泛科技方向延续强势，车路云一体化概念股批量涨停](https://www.cls.cn/detail/1707206)
 - [【财联社】AI浪潮推动消费电子大爆发，半导体中的这一细分正悄然走强](https://www.cls.cn/detail/1707017)
-- [【财联社】科技股内部延续良性轮动结构，车路云概念再迎利好有望二次发酵](https://www.cls.cn/detail/1705753)
+- [【财联社】【午报】三大指数全线飘红！泛科技方向延续强势，车路云一体化概念股批量涨停](https://www.cls.cn/detail/1707206)
 - [......【查看更多】......](/details/tags/tech.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -66,7 +65,6 @@
 
 
 - [【AI财经社】茅台来了一位女将](https://www.aicaijing.com.cn/article/18587)
-- [【雪球热帖】白酒行业的风险还远没释放完](https://xueqiu.com/3840065805/294106535)
 - [......【查看更多】......](/details/tags/xiaofei.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
