@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-20 02:37:15。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-20 03:31:39。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -46,6 +46,7 @@
 
 
 - [【财联社】美股连创新高背后暗藏隐忧？策略师警告：科技股或将出现“裂痕”](https://www.cls.cn/detail/1709376)
+- [【财联社】摩根大通姚橙“空转多”：中国科技股预计可以再涨约20-25%](https://www.cls.cn/detail/1709529)
 - [【财联社】车路云概念再迎密集利好催化，能否引领科技股再掀高潮？](https://www.cls.cn/detail/1708232)
 - [【投资界】五源刘凯：科技供应链投资的进化之路](https://posts.careerengine.us/p/66737bde362eae34f60422bb)
 - [......【查看更多】......](/details/tags/tech.md)
@@ -101,7 +102,6 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】财联社债市早参6月19日-|监管要求信托自查与银行理财合作四大违规业务，含投资低评级债券等；30年国债收益率昨日下破2.50%](https://www.cls.cn/detail/1708163)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
