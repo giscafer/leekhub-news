@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-20 00:44:50。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-20 01:46:57。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -29,7 +29,6 @@
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
 - [【投资界】大模型价格战40天](https://posts.careerengine.us/p/66713fc1f7253a1e2e703db7)
-- [【投资界】大模型独角兽开始挤泡沫](https://posts.careerengine.us/p/666a694e2a54a2443d22c868)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -46,7 +45,9 @@
 
 
 
+- [【财联社】美股连创新高背后暗藏隐忧？策略师警告：科技股或将出现“裂痕”](https://www.cls.cn/detail/1709376)
 - [【财联社】车路云概念再迎密集利好催化，能否引领科技股再掀高潮？](https://www.cls.cn/detail/1708232)
+- [【投资界】五源刘凯：科技供应链投资的进化之路](https://posts.careerengine.us/p/66737bde362eae34f60422bb)
 - [......【查看更多】......](/details/tags/tech.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -100,7 +101,6 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】两家外资银行网点同日关闭，原因却各自不同，花旗中国本月已连关三支行](https://www.cls.cn/detail/1708261)
 - [【财联社】财联社债市早参6月19日-|监管要求信托自查与银行理财合作四大违规业务，含投资低评级债券等；30年国债收益率昨日下破2.50%](https://www.cls.cn/detail/1708163)
 - [......【查看更多】......](/details/tags/house.md)
 
