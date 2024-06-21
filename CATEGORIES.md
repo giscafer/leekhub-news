@@ -1,13 +1,13 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-21 04:32:16，:rocket: 更新条数: +33， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-21 05:31:53，:rocket: 更新条数: +35， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [AI财经社](#ai财经社)  
 - [财联社](#财联社)![](/assets/dot.png)   
-- [雪球热帖](#雪球热帖)![](/assets/dot.png)   
-- [投资界](#投资界)  
+- [雪球热帖](#雪球热帖)  
+- [投资界](#投资界)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -48,26 +48,26 @@
 </summary>
 
 
-- [2024-06-21-故意泄露国家秘密！中国地质调查局原局长钟自然被开除党籍](https://www.cls.cn/detail/1710802)  
-- [2024-06-21-日元“命悬一线”之际：美国将日本列入汇率操纵监测名单！](https://www.cls.cn/detail/1710748)  
-- [2024-06-21-开发商欠债未还31套别墅被拍卖，深圳一季度7成法拍房流拍](https://www.cls.cn/detail/1710679)  
-- [2024-06-21-财联社汽车早报【6月21日】](https://www.cls.cn/detail/1710632)  
-- [2024-06-21-财联社债市早参6月21日-|未持牌城农商行存量理财业务2026年末“一刀切”？化债政策或有突破，河南发行520亿元新增专项债引发热议](https://www.cls.cn/detail/1710602)  
-- [2024-06-21-中信建投：把握发展规律，培育“耐心资本”](https://www.cls.cn/detail/1710614)  
-- [2024-06-21-“车路云一体化”如何迈向规模化应用？京沪渝示范区代表说计划这样干](https://www.cls.cn/detail/1710686)  
-- [2024-06-21-美联储7月降息？利率期货市场上正涌现两笔“极限押注”！](https://www.cls.cn/detail/1710643)  
-- [2024-06-21-美股史上最大规模“三巫日”来袭！5万亿美元期权到期或引发疯狂行情](https://www.cls.cn/detail/1710610)  
-- [2024-06-21-要打消今年2次降息期待？FED官员再“放鹰”：还需更多数据！](https://www.cls.cn/detail/1710603)  
-- [2024-06-21-项目审批过会后又撤回，竟因涉嫌单位行贿罪，保荐机构、律所、发行人同遭罚](https://www.cls.cn/detail/1710620)  
-- [2024-06-21-2024商业航天发展大会即将召开-产业驶入发展“快车道”](https://www.cls.cn/detail/1710569)  
-- [2024-06-21-券商晨会精华：华为将推车路云新品-产业趋势再验证](https://www.cls.cn/detail/1710588)  
-- [2024-06-21-6月21日投资避雷针：7连板人气股公告-可能存在股价大幅上涨后回落的风险](https://www.cls.cn/detail/1710596)  
-- [2024-06-21-如何看待货币政策新提法？](https://www.cls.cn/detail/1710618)  
-- [2024-06-21-车路云概念良性分歧后或有望迎来资金回流，短线炒作趋于抱团化发展](https://www.cls.cn/detail/1710680)  
-- [2024-06-21-令人心惊的数字！美墨地区遭遇极端高温事件可能性增加35倍](https://www.cls.cn/detail/1710706)  
+- [2024-06-21-折价超9%！商汤宣布配售近17亿股-公司股价一度跌超6%](https://www.cls.cn/detail/1710759)  
+- [2024-06-21-全球掀起储能建设热潮-阿联酋储备项目跻身前十](https://www.cls.cn/detail/1710728)  
 - [2024-06-21-券商并购又一单！西部证券拟现金收购国融证券控股权，将带来哪些想象空间？](https://www.cls.cn/detail/1710741)  
-- [2024-06-21-全球掀起储能建设热潮-阿联酋储备项目跻身前十](https://www.cls.cn/detail/1710728) ![](/assets/new.png)  
-- [2024-06-21-折价超9%！商汤宣布配售近17亿股-公司股价一度跌超6%](https://www.cls.cn/detail/1710759) ![](/assets/new.png)  
+- [2024-06-21-令人心惊的数字！美墨地区遭遇极端高温事件可能性增加35倍](https://www.cls.cn/detail/1710706)  
+- [2024-06-21-车路云概念良性分歧后或有望迎来资金回流，短线炒作趋于抱团化发展](https://www.cls.cn/detail/1710680)  
+- [2024-06-21-如何看待货币政策新提法？](https://www.cls.cn/detail/1710618)  
+- [2024-06-21-6月21日投资避雷针：7连板人气股公告-可能存在股价大幅上涨后回落的风险](https://www.cls.cn/detail/1710596)  
+- [2024-06-21-券商晨会精华：华为将推车路云新品-产业趋势再验证](https://www.cls.cn/detail/1710588)  
+- [2024-06-21-2024商业航天发展大会即将召开-产业驶入发展“快车道”](https://www.cls.cn/detail/1710569)  
+- [2024-06-21-项目审批过会后又撤回，竟因涉嫌单位行贿罪，保荐机构、律所、发行人同遭罚](https://www.cls.cn/detail/1710620)  
+- [2024-06-21-要打消今年2次降息期待？FED官员再“放鹰”：还需更多数据！](https://www.cls.cn/detail/1710603)  
+- [2024-06-21-美股史上最大规模“三巫日”来袭！5万亿美元期权到期或引发疯狂行情](https://www.cls.cn/detail/1710610)  
+- [2024-06-21-美联储7月降息？利率期货市场上正涌现两笔“极限押注”！](https://www.cls.cn/detail/1710643)  
+- [2024-06-21-“车路云一体化”如何迈向规模化应用？京沪渝示范区代表说计划这样干](https://www.cls.cn/detail/1710686)  
+- [2024-06-21-中信建投：把握发展规律，培育“耐心资本”](https://www.cls.cn/detail/1710614)  
+- [2024-06-21-财联社债市早参6月21日-|未持牌城农商行存量理财业务2026年末“一刀切”？化债政策或有突破，河南发行520亿元新增专项债引发热议](https://www.cls.cn/detail/1710602)  
+- [2024-06-21-财联社汽车早报【6月21日】](https://www.cls.cn/detail/1710632)  
+- [2024-06-21-开发商欠债未还31套别墅被拍卖，深圳一季度7成法拍房流拍](https://www.cls.cn/detail/1710679)  
+- [2024-06-21-日元“命悬一线”之际：美国将日本列入汇率操纵监测名单！](https://www.cls.cn/detail/1710748)  
+- [2024-06-21-故意泄露国家秘密！中国地质调查局原局长钟自然被开除党籍](https://www.cls.cn/detail/1710802)  
 - [......【查看更多】......](/details/财联社.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -80,7 +80,7 @@
 
 
 - [2024-06-21-如果你拿的是一个好公司-，你为啥要怕跌呢。好公司跌了给你加仓机会，工资奖金可以加仓（如有多余），分红可以加仓。如果分红都没有那肯定不是好公司了。所以你...](https://xueqiu.com/9887656769/294608148)  
-- [2024-06-21-从30W起步，目标是10倍，到第147天达到174.7W。还有一只涨幅超过34%的波段股票，在2.30盘前可以买入！想看实盘的支付寶直接搜索（红上涨）。看每天的票！机遇即...](https://xueqiu.com/1925434199/294651260) ![](/assets/new.png)  
+- [2024-06-21-从30W起步，目标是10倍，到第147天达到174.7W。还有一只涨幅超过34%的波段股票，在2.30盘前可以买入！想看实盘的支付寶直接搜索（红上涨）。看每天的票！机遇即...](https://xueqiu.com/1925434199/294651260)  
 - [2024-06-20-回复@一醉明月:-好的教育是昂贵的，更贵的是不好的教育。不过，我们会继续想办法降低员工子弟的入学成本的。//@一醉明月:回复@大道无形我有型:大道请问您如何看...](https://xueqiu.com/1247347556/294604070)  
 - [2024-06-20-【完整版】方三文对话辜朝明：何为“被追赶的经济体”&nbsp;视频链接](https://xueqiu.com/4855909358/294562822)  
 - [2024-06-20-世纪互联发布2024年Q1财报-净营收同比增长5.1%至19亿元人民币](https://xueqiu.com/6990276842/294547919)  
@@ -110,26 +110,26 @@
 </summary>
 
 
-- [2024-06-20-五源刘凯：科技供应链投资的进化之路](https://posts.careerengine.us/p/66737bde362eae34f60422bb)  
-- [2024-06-20-BBA价格大跳水](https://posts.careerengine.us/p/66737bde362eae34f60422b3)  
+- [2024-06-21-120亿，黑石跑去买漫画了](https://posts.careerengine.us/p/667505d47883455875bd7697) ![](/assets/new.png)  
+- [2024-06-21-刚刚，400亿S基金关账](https://posts.careerengine.us/p/667505e46dd30759206906c6) ![](/assets/new.png)  
+- [2024-06-21-中国电动车拼到了轮胎](https://posts.careerengine.us/p/667505e46dd30759206906bd) ![](/assets/new.png)  
+- [2024-06-21-九万港人北上养老](https://posts.careerengine.us/p/667505f7b96b7159555c501f) ![](/assets/new.png)  
 - [2024-06-20-青岛，还在死磕造车梦](https://posts.careerengine.us/p/66737bedb57ef4351461073f)  
-- [2024-06-19-消失的医疗独角兽](https://posts.careerengine.us/p/66722f2ff95bbe678f2c2e63)  
-- [2024-06-19-首发|一笔超级C轮诞生，10亿](https://posts.careerengine.us/p/66722f205113b4676d284c0d)  
-- [2024-06-19-广州一举投12家GP](https://posts.careerengine.us/p/66722f205113b4676d284c15)  
+- [2024-06-20-BBA价格大跳水](https://posts.careerengine.us/p/66737bde362eae34f60422b3)  
+- [2024-06-20-五源刘凯：科技供应链投资的进化之路](https://posts.careerengine.us/p/66737bde362eae34f60422bb)  
 - [2024-06-19-厂二代开始接班](https://posts.careerengine.us/p/66722f205113b4676d284c1d)  
-- [2024-06-18-曾毓群投她，要IPO了](https://posts.careerengine.us/p/66713fb3f9a5bc1dc0cf5b5b)  
-- [2024-06-18-大学集体做VC](https://posts.careerengine.us/p/66713fc1f7253a1e2e703dbf)  
+- [2024-06-19-广州一举投12家GP](https://posts.careerengine.us/p/66722f205113b4676d284c15)  
+- [2024-06-19-首发|一笔超级C轮诞生，10亿](https://posts.careerengine.us/p/66722f205113b4676d284c0d)  
+- [2024-06-19-消失的医疗独角兽](https://posts.careerengine.us/p/66722f2ff95bbe678f2c2e63)  
 - [2024-06-18-大模型价格战40天](https://posts.careerengine.us/p/66713fc1f7253a1e2e703db7)  
-- [2024-06-17-中国创新药浮沉史](https://posts.careerengine.us/p/6670508a2b8b244bed6e1e28)  
-- [2024-06-17-LP开始招募投后单位](https://posts.careerengine.us/p/6670508a2b8b244bed6e1e19)  
+- [2024-06-18-大学集体做VC](https://posts.careerengine.us/p/66713fc1f7253a1e2e703dbf)  
+- [2024-06-18-曾毓群投她，要IPO了](https://posts.careerengine.us/p/66713fb3f9a5bc1dc0cf5b5b)  
 - [2024-06-17-大厂战投部招人，月薪10万](https://posts.careerengine.us/p/667050892b8b244bed6e1e11)  
-- [2024-06-16-何猷君要去IPO敲钟了](https://posts.careerengine.us/p/666ee300c3464b78a97c6a76)  
+- [2024-06-17-LP开始招募投后单位](https://posts.careerengine.us/p/6670508a2b8b244bed6e1e19)  
+- [2024-06-17-中国创新药浮沉史](https://posts.careerengine.us/p/6670508a2b8b244bed6e1e28)  
 - [2024-06-16-私募通MAX数据周报：本周投资、上市和并购共60起事件](https://posts.careerengine.us/p/666ee3139f458d792278acfa)  
+- [2024-06-16-何猷君要去IPO敲钟了](https://posts.careerengine.us/p/666ee300c3464b78a97c6a76)  
 - [2024-06-15-今年，一波创业公司想卖了](https://posts.careerengine.us/p/666d449be60f530537516727)  
-- [2024-06-14-卷不动的汽车价格战](https://posts.careerengine.us/p/666bf54cac771b20ea72df0c)  
-- [2024-06-14-大厂搬回五环内](https://posts.careerengine.us/p/666bf53d13fe8d207fb35452)  
-- [2024-06-14-600亿，香港大基金正式来了](https://posts.careerengine.us/p/666bf53d13fe8d207fb3545a)  
-- [2024-06-13-湖南人「占领」深圳](https://posts.careerengine.us/p/666a695ec8aa6c44680643ae)  
 - [......【查看更多】......](/details/投资界.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
