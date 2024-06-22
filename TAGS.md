@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-22 03:32:34。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-22 04:31:31。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -29,7 +29,6 @@
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
 - [【雪球热帖】诺亚GPTalk-|-AQR-Helix策略：方向性宏观策略，聚焦另类市场](https://xueqiu.com/4712978991/294640571)
-- [【雪球热帖】直面算力紧缺-世纪互联陈升：传统IDC必须加速演进为面向大模型的AIDC](https://xueqiu.com/4328439158/294530084)
 - [【投资界】大模型价格战40天](https://posts.careerengine.us/p/66713fc1f7253a1e2e703db7)
 - [......【查看更多】......](/details/tags/aigc.md)
 
