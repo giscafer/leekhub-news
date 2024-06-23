@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-06-23 03:30:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-23 04:32:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -11,5 +11,4 @@
 - [2023-08-17-大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574) 
 - [2023-08-16-品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569) 
 - [2023-08-16-AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570) 
-- [2024-06-21-诺亚GPTalk-|-AQR-Helix策略：方向性宏观策略，聚焦另类市场](https://xueqiu.com/4712978991/294640571) 
 - [2024-06-18-大模型价格战40天](https://posts.careerengine.us/p/66713fc1f7253a1e2e703db7) 
