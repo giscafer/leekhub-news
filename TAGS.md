@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-26 03:32:47。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-26 04:33:48。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,6 +28,7 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
+- [【财联社】BAT集体上线API“搬家”服务！国内大模型玩家跑马圈地-OpenAI向中国开发者停服仅是导火索|行业动态](https://www.cls.cn/detail/1714718)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -44,8 +45,8 @@
 
 
 
-- [【财联社】央媒聚焦科技盛会：朝着建成科技强国宏伟目标奋勇前进](https://www.cls.cn/detail/1714676)
 - [【财联社】泛科技股集体补跌后，风险释放或接近尾声，留意低位板块轮动性机会](https://www.cls.cn/detail/1714705)
+- [【财联社】央媒聚焦科技盛会：朝着建成科技强国宏伟目标奋勇前进](https://www.cls.cn/detail/1714676)
 - [【雪球热帖】均普智能深耕人形机器人领域，与微软等科技巨头展开深度合作](https://xueqiu.com/9284738691/295059726)
 - [【投资界】五源刘凯：科技供应链投资的进化之路](https://posts.careerengine.us/p/66737bde362eae34f60422bb)
 - [......【查看更多】......](/details/tags/tech.md)
