@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-27 00:44:59。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-27 01:48:33。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,7 +28,6 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
-- [【财联社】BAT集体上线API“搬家”服务！国内大模型玩家跑马圈地-OpenAI向中国开发者停服仅是导火索|行业动态](https://www.cls.cn/detail/1714718)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -100,6 +99,8 @@
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
 - [【财联社】北京楼市新政落地-房地产行业估值有望迎来整体修复](https://www.cls.cn/detail/1715902)
+- [【财联社】中信证券：未来一段时间又将迎来房地产政策出台的小高潮](https://www.cls.cn/detail/1715938)
+- [【财联社】注册制以来第二例，海安银行“长跑”7年上市未果主动撤回，A股排队拟上市银行剩8家](https://www.cls.cn/detail/1715953)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
