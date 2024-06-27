@@ -1,13 +1,13 @@
 ##
 
-:alarm_clock: 更新时间: 2024-06-27 02:37:39，:rocket: 更新条数: +38， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-27 03:31:40，:rocket: 更新条数: +40， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [AI财经社](#ai财经社)  
 - [财联社](#财联社)![](/assets/dot.png)   
 - [雪球热帖](#雪球热帖)  
-- [投资界](#投资界)  
+- [投资界](#投资界)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -48,26 +48,26 @@
 </summary>
 
 
-- [2024-06-27-日元暴跌竟拖累美债！市场担心美国最大海外“债主”又要抛](https://www.cls.cn/detail/1715978)  
-- [2024-06-27-国资委：加快关键核心技术攻关，着眼产业链整体突破，压紧压实责任，加速攻关突破](https://www.cls.cn/detail/1715980)  
-- [2024-06-27-养老FOF难过“三年之痒”？年内已清盘4只，2只提示清盘风险，背后是何难题？](https://www.cls.cn/detail/1715963)  
-- [2024-06-27-财联社汽车早报【6月27日】](https://www.cls.cn/detail/1715962)  
-- [2024-06-27-注册制以来第二例，海安银行“长跑”7年上市未果主动撤回，A股排队拟上市银行剩8家](https://www.cls.cn/detail/1715953)  
-- [2024-06-27-上海楼市新政满月：6月二手房交易量有望创近3年新高，多个新房楼盘触发积分](https://www.cls.cn/detail/1715940)  
-- [2024-06-27-中信证券：未来一段时间又将迎来房地产政策出台的小高潮](https://www.cls.cn/detail/1715938)  
-- [2024-06-27-人民日报评论员：充分发挥新型举国体制优势](https://www.cls.cn/detail/1715905)  
-- [2024-06-27-降薪引发基金经理离职潮？内情实探：多因素导致，当下跳槽“没那么简单”](https://www.cls.cn/detail/1715931)  
-- [2024-06-27-北京楼市新政落地-房地产行业估值有望迎来整体修复](https://www.cls.cn/detail/1715902)  
-- [2024-06-27-6月27日投资避雷针：4天翻倍人气股提示风险-数字货币相关业务对公司经营影响很小](https://www.cls.cn/detail/1715929)  
+- [2024-06-27-国家统计局：1—5月份全国规模以上工业企业利润同比增长3.4%](https://www.cls.cn/detail/1716029)  
+- [2024-06-27-券商晨会精华：灵活型外资短期交易方向会随指数波动出现较大反差](https://www.cls.cn/detail/1715932)  
 - [2024-06-27-英伟达“看涨浪潮”愈发汹涌：股价年内料翻倍，市值将达6万亿美元！](https://www.cls.cn/detail/1715933)  
-- [2024-06-27-券商晨会精华：灵活型外资短期交易方向会随指数波动出现较大反差](https://www.cls.cn/detail/1715932) ![](/assets/new.png)  
-- [2024-06-27-国家统计局：1—5月份全国规模以上工业企业利润同比增长3.4%](https://www.cls.cn/detail/1716029) ![](/assets/new.png)  
-- [2024-06-26-券商晨会精华：杠杆资金平仓压力可控，微观资金面呈现下有底的状态](https://www.cls.cn/detail/1714607)  
-- [2024-06-26-公募降佣7月1日执行倒计时！协议重签中，出了问题找总经理与合规负责人](https://www.cls.cn/detail/1714635)  
-- [2024-06-26-一家打包出售，一家无奈退市，中资在港券商境遇分化，也见出海新打法](https://www.cls.cn/detail/1714651)  
-- [2024-06-26-广州再现绿色品种期货新动向，期货行业践行绿色金融有带来展业新机遇](https://www.cls.cn/detail/1714654)  
-- [2024-06-26-财联社汽车早报【6月26日】](https://www.cls.cn/detail/1714655)  
+- [2024-06-27-6月27日投资避雷针：4天翻倍人气股提示风险-数字货币相关业务对公司经营影响很小](https://www.cls.cn/detail/1715929)  
+- [2024-06-27-北京楼市新政落地-房地产行业估值有望迎来整体修复](https://www.cls.cn/detail/1715902)  
+- [2024-06-27-降薪引发基金经理离职潮？内情实探：多因素导致，当下跳槽“没那么简单”](https://www.cls.cn/detail/1715931)  
+- [2024-06-27-人民日报评论员：充分发挥新型举国体制优势](https://www.cls.cn/detail/1715905)  
+- [2024-06-27-中信证券：未来一段时间又将迎来房地产政策出台的小高潮](https://www.cls.cn/detail/1715938)  
+- [2024-06-27-上海楼市新政满月：6月二手房交易量有望创近3年新高，多个新房楼盘触发积分](https://www.cls.cn/detail/1715940)  
+- [2024-06-27-注册制以来第二例，海安银行“长跑”7年上市未果主动撤回，A股排队拟上市银行剩8家](https://www.cls.cn/detail/1715953)  
+- [2024-06-27-财联社汽车早报【6月27日】](https://www.cls.cn/detail/1715962)  
+- [2024-06-27-养老FOF难过“三年之痒”？年内已清盘4只，2只提示清盘风险，背后是何难题？](https://www.cls.cn/detail/1715963)  
+- [2024-06-27-国资委：加快关键核心技术攻关，着眼产业链整体突破，压紧压实责任，加速攻关突破](https://www.cls.cn/detail/1715980)  
+- [2024-06-27-日元暴跌竟拖累美债！市场担心美国最大海外“债主”又要抛](https://www.cls.cn/detail/1715978)  
+- [2024-06-27-市场迎来修复性反弹，留意低位科技股方向的轮动性机会](https://www.cls.cn/detail/1716016) ![](/assets/new.png)  
+- [2024-06-27-银行火速落地执行！北京首套房贷利率降至3.5%-二套进入“3字头”](https://www.cls.cn/detail/1716106) ![](/assets/new.png)  
+- [2024-06-27-科技部：锚定2035年建成科技强国的战略目标-加快形成贯彻落实全国科技大会部署重点任务的具体举措](https://www.cls.cn/detail/1716130) ![](/assets/new.png)  
 - [2024-06-26-16名诺奖得主重磅警告：特朗普若上台将重新点燃美国通胀](https://www.cls.cn/detail/1714634)  
+- [2024-06-26-财联社汽车早报【6月26日】](https://www.cls.cn/detail/1714655)  
+- [2024-06-26-广州再现绿色品种期货新动向，期货行业践行绿色金融有带来展业新机遇](https://www.cls.cn/detail/1714654)  
 - [......【查看更多】......](/details/财联社.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -110,26 +110,26 @@
 </summary>
 
 
-- [2024-06-26-君联资本，一天两个IPO](https://posts.careerengine.us/p/667b85e48423d11ff874767d)  
-- [2024-06-26-高瓴投了他们，今天IPO了](https://posts.careerengine.us/p/667b85e48423d11ff8747675)  
-- [2024-06-26-英伟达新对手悄然崛起](https://posts.careerengine.us/p/667b85f3789f0320410d5006)  
+- [2024-06-27-千亿PE来香港开办公室了](https://posts.careerengine.us/p/667cd8db20507167239b72cc) ![](/assets/new.png)  
+- [2024-06-27-首发|「低空」融资纪录被打破了](https://posts.careerengine.us/p/667cd8db20507167239b72c4) ![](/assets/new.png)  
+- [2024-06-27-高考放榜，千万别选错城市](https://posts.careerengine.us/p/667cd8ea952af667496a3c25) ![](/assets/new.png)  
+- [2024-06-27-正在消失的电脑城](https://posts.careerengine.us/p/667cd8ea952af667496a3c2d) ![](/assets/new.png)  
 - [2024-06-26-围剿lululemon](https://posts.careerengine.us/p/667b85f3789f0320410d500e)  
-- [2024-06-25-丑魔芋，一年卖400亿](https://posts.careerengine.us/p/667a7658a1f49b57ffaf3d04)  
+- [2024-06-26-英伟达新对手悄然崛起](https://posts.careerengine.us/p/667b85f3789f0320410d5006)  
+- [2024-06-26-高瓴投了他们，今天IPO了](https://posts.careerengine.us/p/667b85e48423d11ff8747675)  
+- [2024-06-26-君联资本，一天两个IPO](https://posts.careerengine.us/p/667b85e48423d11ff874767d)  
 - [2024-06-25-一家公司卖身：团队分到1个亿](https://posts.careerengine.us/p/667a763af861d3574acb3474)  
-- [2024-06-24-今年最大天使轮诞生了](https://posts.careerengine.us/p/6679233dbc442c72d55dfc95)  
-- [2024-06-24-江苏最大母基金来了](https://posts.careerengine.us/p/6679233dbc442c72d55dfc9d)  
+- [2024-06-25-丑魔芋，一年卖400亿](https://posts.careerengine.us/p/667a7658a1f49b57ffaf3d04)  
 - [2024-06-24-聊聊回购条款](https://posts.careerengine.us/p/6679234c48ef5d7302818efc)  
-- [2024-06-23-私募通MAX数据周报：本周投资、上市和并购共87起事件](https://posts.careerengine.us/p/6677c787a3420b64361cb863)  
-- [2024-06-23-旅修正在收割中产](https://posts.careerengine.us/p/6677c778e02f6b640aa329b3)  
+- [2024-06-24-江苏最大母基金来了](https://posts.careerengine.us/p/6679233dbc442c72d55dfc9d)  
+- [2024-06-24-今年最大天使轮诞生了](https://posts.careerengine.us/p/6679233dbc442c72d55dfc95)  
 - [2024-06-23-蔡崇信，爱好估值400亿](https://posts.careerengine.us/p/6677c7694d125563e296e55a)  
+- [2024-06-23-旅修正在收割中产](https://posts.careerengine.us/p/6677c778e02f6b640aa329b3)  
+- [2024-06-23-私募通MAX数据周报：本周投资、上市和并购共87起事件](https://posts.careerengine.us/p/6677c787a3420b64361cb863)  
 - [2024-06-22-一家人造肉公司宣布倒闭](https://posts.careerengine.us/p/6676870645eecb659e3cfb14)  
-- [2024-06-21-九万港人北上养老](https://posts.careerengine.us/p/667505f7b96b7159555c501f)  
-- [2024-06-21-中国电动车拼到了轮胎](https://posts.careerengine.us/p/667505e46dd30759206906bd)  
-- [2024-06-21-刚刚，400亿S基金关账](https://posts.careerengine.us/p/667505e46dd30759206906c6)  
 - [2024-06-21-120亿，黑石跑去买漫画了](https://posts.careerengine.us/p/667505d47883455875bd7697)  
-- [2024-06-20-五源刘凯：科技供应链投资的进化之路](https://posts.careerengine.us/p/66737bde362eae34f60422bb)  
-- [2024-06-20-BBA价格大跳水](https://posts.careerengine.us/p/66737bde362eae34f60422b3)  
-- [2024-06-20-青岛，还在死磕造车梦](https://posts.careerengine.us/p/66737bedb57ef4351461073f)  
+- [2024-06-21-刚刚，400亿S基金关账](https://posts.careerengine.us/p/667505e46dd30759206906c6)  
+- [2024-06-21-中国电动车拼到了轮胎](https://posts.careerengine.us/p/667505e46dd30759206906bd)  
 - [......【查看更多】......](/details/投资界.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
