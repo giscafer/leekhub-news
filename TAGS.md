@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-29 00:45:01。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-29 01:47:16。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -97,6 +97,7 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
+- [【财联社】华尔街顶级银行纷纷提高派息-此前在美联储压力测试中全部“过关”](https://www.cls.cn/detail/1718533)
 - [【财联社】83%参会H股股东反对郑州银行2023年利润分配方案，但无碍“不分红”执行](https://www.cls.cn/detail/1717332)
 - [......【查看更多】......](/details/tags/house.md)
 
