@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-01 03:32:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-01 04:32:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -9,3 +9,4 @@
 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
+- [2024-07-01-关门网点比去年少？上半年1126家商业银行网点退出新设968家，业内：收缩趋势还会延续](https://www.cls.cn/detail/1719397) 
