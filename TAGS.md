@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-04 16:33:44。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-04 17:31:01。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -98,8 +98,8 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】交通银行再次公告清理睡眠借记卡，6月来已三度出手，银行卡“收缩时代”会来临吗？](https://www.cls.cn/detail/1723287)
 - [【财联社】下半年首罚！北京银行旗下村行涉“董事未经核准即履职”被罚25万，时任董事长被警告](https://www.cls.cn/detail/1723275)
+- [【财联社】交通银行再次公告清理睡眠借记卡，6月来已三度出手，银行卡“收缩时代”会来临吗？](https://www.cls.cn/detail/1723287)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
