@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-05 02:37:47。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-05 03:31:18。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -100,7 +100,6 @@
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
 - [【财联社】北京楼市新政出台十日-银行房贷业务咨询量提升-专家：政策仍在发酵-房贷数据或于8、9月拉升](https://www.cls.cn/detail/1724393)
-- [【财联社】下半年首罚！北京银行旗下村行涉“董事未经核准即履职”被罚25万，时任董事长被警告](https://www.cls.cn/detail/1723275)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
