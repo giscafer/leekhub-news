@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-07 08:31:24。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-07 09:31:07。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -63,7 +63,6 @@
 
 - [【AI财经社】茅台来了一位女将](https://www.aicaijing.com.cn/article/18587)
 - [【雪球热帖】长江电力换茅台的思考](https://xueqiu.com/1392782404/296540268)
-- [【雪球热帖】回复@幸运jenny:-如果我处在你这种情况就会每个月把余钱拿去买茅台，然后好好工作，不要花太多的时间在股市上。你目前千万别想着要靠投资赚大钱，因为本钱太少了...](https://xueqiu.com/1247347556/296332554)
 - [......【查看更多】......](/details/tags/xiaofei.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -98,6 +97,7 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
+- [【财联社】二永债发行再提速！三季度首周7家银行拟发行1560亿元-专家：债券市场供小于求-有望成为城投债优秀替代产品](https://www.cls.cn/detail/1725692)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

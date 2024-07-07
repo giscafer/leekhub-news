@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-07 08:31:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-07 09:31:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -9,3 +9,4 @@
 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
+- [2024-07-07-二永债发行再提速！三季度首周7家银行拟发行1560亿元-专家：债券市场供小于求-有望成为城投债优秀替代产品](https://www.cls.cn/detail/1725692) 
