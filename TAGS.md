@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-09 00:45:03。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-09 01:50:02。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -63,7 +63,6 @@
 
 
 - [【AI财经社】茅台来了一位女将](https://www.aicaijing.com.cn/article/18587)
-- [【雪球热帖】长江电力换茅台的思考](https://xueqiu.com/1392782404/296540268)
 - [......【查看更多】......](/details/tags/xiaofei.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
