@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-09 02:39:09。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-09 03:32:06。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,7 +28,6 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
-- [【投资界】国产大模型即将决战](https://posts.careerengine.us/p/6683b79d3a96907421bc3fa3)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -46,6 +45,7 @@
 
 
 - [【财联社】市场回暖迹象初现，创新药与科技股或将率先吹响反攻号角](https://www.cls.cn/detail/1726032)
+- [【投资界】一群信仰中国半导体的人](https://posts.careerengine.us/p/668ca7ae8defaa58ee06d3d1)
 - [......【查看更多】......](/details/tags/tech.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
