@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-11 05:32:07。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-11 06:34:09。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -99,6 +99,7 @@
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
 - [【财联社】剥离、重组房地产开发业务-多家上市公司退“房”](https://www.cls.cn/detail/1730675)
+- [【雪球热帖】跨界大器晚成、打垮英格兰银行、走在前沿的数学大牛……他们也都是对冲基金的超级玩家！（下）](https://xueqiu.com/9158060429/297094553)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
