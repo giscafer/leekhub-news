@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-13 14:30:54。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-13 15:30:55。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -99,7 +99,6 @@
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
 - [【财联社】西安银行董事长梁邦海任职资格获准，年内至少7家上市银行“换帅”，包括工、建两家大行](https://www.cls.cn/detail/1733111)
-- [【财联社】财联社债市早参7月12日|-第三季度地方债计划发行超2.7万亿；万科及子公司近日获得银行贷款27亿](https://www.cls.cn/detail/1731749)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
