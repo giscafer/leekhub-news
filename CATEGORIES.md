@@ -1,13 +1,13 @@
 ##
 
-:alarm_clock: 更新时间: 2024-07-13 06:33:38，:rocket: 更新条数: +45， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-13 07:30:56，:rocket: 更新条数: +47， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [AI财经社](#ai财经社)  
 - [财联社](#财联社)![](/assets/dot.png)   
 - [雪球热帖](#雪球热帖)  
-- [投资界](#投资界)  
+- [投资界](#投资界)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -48,26 +48,26 @@
 </summary>
 
 
-- [2024-07-13-旋风式访华，这家沙特主权基金什么来头？全球第五大主权财富基金，早已重仓中国](https://www.cls.cn/detail/1732989)  
-- [2024-07-13-基金经理的业绩压力有多大？因绩差转岗或离职者增多，管理规模不足2亿的已近700人](https://www.cls.cn/detail/1732981)  
-- [2024-07-13-马斯克终于为特朗普掏钱！共和党多名大金主已然转变“画风”](https://www.cls.cn/detail/1732977)  
-- [2024-07-13-10亿定增已能排前20名，年内定增总募资不足过去三年同期1/3，赚钱效应减弱](https://www.cls.cn/detail/1732990)  
 - [2024-07-13-猪周期开启动保受益上行？业内人士：开始出现好转趋势|行业动态](https://www.cls.cn/detail/1732995)  
-- [2024-07-12-贸易规模再创新高！今年上半年我国货物贸易进出口总值同比增长6.1％](https://www.cls.cn/detail/1731838)  
-- [2024-07-12-拜登又双叒叕说错话？口误称特朗普为副总统-民主党高层高呼“换人”](https://www.cls.cn/detail/1731892)  
-- [2024-07-12-苹果“高光时刻”将至？美银加入“看涨大军”：iPhone-16是关键力量！](https://www.cls.cn/detail/1731876)  
-- [2024-07-12-美国对进口自中国的低速载人车辆发起双反调查](https://www.cls.cn/detail/1731879)  
-- [2024-07-12-财联社债市早参7月12日|-第三季度地方债计划发行超2.7万亿；万科及子公司近日获得银行贷款27亿](https://www.cls.cn/detail/1731749)  
-- [2024-07-12-美联储“大鸽派”评6月CPI：通胀已重回2%轨道，降息时机要成熟了！](https://www.cls.cn/detail/1731727)  
-- [2024-07-12-华泰证券三中全会前瞻：改革的三大主线和25项任务清单](https://www.cls.cn/detail/1731730)  
-- [2024-07-12-劝退声此起彼伏-专家警告：拜登拒绝退选或产生巨大经济风险](https://www.cls.cn/detail/1731720)  
-- [2024-07-12-财联社汽车早报【7月12日】](https://www.cls.cn/detail/1731736)  
-- [2024-07-12-美国通胀数据全面降温-特斯拉Robotaxi传出坏消息-|-环球市场](https://www.cls.cn/detail/1731713)  
-- [2024-07-12-券商晨会精华：当前有三个关键领域改革对中国经济至关重要](https://www.cls.cn/detail/1731722)  
-- [2024-07-12-7月12日投资避雷针：消费电子人气股刚创历史新高-实控人却被立案调查并实施留置](https://www.cls.cn/detail/1731731)  
-- [2024-07-12-奥运期间巴黎航线反而降温？达美航空：国际旅客明显避开巴黎](https://www.cls.cn/detail/1731743)  
-- [2024-07-12-科技股延续良性分歧，"萝卜快跑”热度不减，智能驾驶概念有望再掀波澜](https://www.cls.cn/detail/1731799)  
+- [2024-07-13-10亿定增已能排前20名，年内定增总募资不足过去三年同期1/3，赚钱效应减弱](https://www.cls.cn/detail/1732990)  
+- [2024-07-13-马斯克终于为特朗普掏钱！共和党多名大金主已然转变“画风”](https://www.cls.cn/detail/1732977)  
+- [2024-07-13-基金经理的业绩压力有多大？因绩差转岗或离职者增多，管理规模不足2亿的已近700人](https://www.cls.cn/detail/1732981)  
+- [2024-07-13-旋风式访华，这家沙特主权基金什么来头？全球第五大主权财富基金，早已重仓中国](https://www.cls.cn/detail/1732989)  
+- [2024-07-13-国泰基金梁杏：投资聚焦“科技+红利”双主线，以网格和定投应对市场波动](https://www.cls.cn/detail/1732982) ![](/assets/new.png)  
+- [2024-07-13-业内人士：疯抢国债，也是对经济的“唱空”](https://www.cls.cn/detail/1733021) ![](/assets/new.png)  
 - [2024-07-12-挟奥运以令马克龙？法国工会威胁：若不让左翼掌权就组织罢工抗议](https://www.cls.cn/detail/1731847)  
+- [2024-07-12-科技股延续良性分歧，"萝卜快跑”热度不减，智能驾驶概念有望再掀波澜](https://www.cls.cn/detail/1731799)  
+- [2024-07-12-奥运期间巴黎航线反而降温？达美航空：国际旅客明显避开巴黎](https://www.cls.cn/detail/1731743)  
+- [2024-07-12-7月12日投资避雷针：消费电子人气股刚创历史新高-实控人却被立案调查并实施留置](https://www.cls.cn/detail/1731731)  
+- [2024-07-12-券商晨会精华：当前有三个关键领域改革对中国经济至关重要](https://www.cls.cn/detail/1731722)  
+- [2024-07-12-美国通胀数据全面降温-特斯拉Robotaxi传出坏消息-|-环球市场](https://www.cls.cn/detail/1731713)  
+- [2024-07-12-财联社汽车早报【7月12日】](https://www.cls.cn/detail/1731736)  
+- [2024-07-12-劝退声此起彼伏-专家警告：拜登拒绝退选或产生巨大经济风险](https://www.cls.cn/detail/1731720)  
+- [2024-07-12-华泰证券三中全会前瞻：改革的三大主线和25项任务清单](https://www.cls.cn/detail/1731730)  
+- [2024-07-12-美联储“大鸽派”评6月CPI：通胀已重回2%轨道，降息时机要成熟了！](https://www.cls.cn/detail/1731727)  
+- [2024-07-12-财联社债市早参7月12日|-第三季度地方债计划发行超2.7万亿；万科及子公司近日获得银行贷款27亿](https://www.cls.cn/detail/1731749)  
+- [2024-07-12-美国对进口自中国的低速载人车辆发起双反调查](https://www.cls.cn/detail/1731879)  
+- [2024-07-12-苹果“高光时刻”将至？美银加入“看涨大军”：iPhone-16是关键力量！](https://www.cls.cn/detail/1731876)  
 - [......【查看更多】......](/details/财联社.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -110,26 +110,26 @@
 </summary>
 
 
-- [2024-07-12-投资机构能力进阶研究报告](https://posts.careerengine.us/p/6690a6b756b00014bcc00e87)  
-- [2024-07-12-小红书卖老股，估值1200亿](https://posts.careerengine.us/p/6690a6b756b00014bcc00e8f)  
-- [2024-07-12-三亚五星酒店价格涨不动了](https://posts.careerengine.us/p/6690a6c68082df14ead7eaa4)  
+- [2024-07-13-中东豪门，要开北京办公室了](https://posts.careerengine.us/p/66922794a876f80d113b51fe) ![](/assets/new.png)  
+- [2024-07-13-无人出租车，最低2元钱](https://posts.careerengine.us/p/669227b82202ae0dfac5d713) ![](/assets/new.png)  
 - [2024-07-12-华为将BBA挑落马下](https://posts.careerengine.us/p/6690a6c68082df14ead7eaac)  
-- [2024-07-11-保时捷中国大败退](https://posts.careerengine.us/p/668f914d75ec610b23087c8f)  
-- [2024-07-11-上海最大AI母基金，225亿](https://posts.careerengine.us/p/668f913e107faf0ab0d965c8)  
-- [2024-07-11-福建会头为什么多是女性](https://posts.careerengine.us/p/668f913e107faf0ab0d965d0)  
+- [2024-07-12-三亚五星酒店价格涨不动了](https://posts.careerengine.us/p/6690a6c68082df14ead7eaa4)  
+- [2024-07-12-小红书卖老股，估值1200亿](https://posts.careerengine.us/p/6690a6b756b00014bcc00e8f)  
+- [2024-07-12-投资机构能力进阶研究报告](https://posts.careerengine.us/p/6690a6b756b00014bcc00e87)  
 - [2024-07-11-深圳南山，诞生一个百亿独角兽](https://posts.careerengine.us/p/668f912f1e44d50a961b0876)  
-- [2024-07-10-李嘉诚家族办公室，来了](https://posts.careerengine.us/p/668e774ea7e9f773c1503b02)  
-- [2024-07-10-张雪峰，杀死理想？](https://posts.careerengine.us/p/668e7762a10bdd744695a004)  
-- [2024-07-10-国资LP新一幕](https://posts.careerengine.us/p/668e7762a10bdd7446959ffc)  
+- [2024-07-11-福建会头为什么多是女性](https://posts.careerengine.us/p/668f913e107faf0ab0d965d0)  
+- [2024-07-11-上海最大AI母基金，225亿](https://posts.careerengine.us/p/668f913e107faf0ab0d965c8)  
+- [2024-07-11-保时捷中国大败退](https://posts.careerengine.us/p/668f914d75ec610b23087c8f)  
 - [2024-07-10-如祺出行敲钟，广州又一家独角兽上市](https://posts.careerengine.us/p/668e7762a10bdd7446959ff4)  
-- [2024-07-09-6月过后，油车更难](https://posts.careerengine.us/p/668ca7bc185ec759161774a3)  
-- [2024-07-09-VC/PE半年IPO成绩缩水](https://posts.careerengine.us/p/668ca7ae8defaa58ee06d3c8)  
+- [2024-07-10-国资LP新一幕](https://posts.careerengine.us/p/668e7762a10bdd7446959ffc)  
+- [2024-07-10-张雪峰，杀死理想？](https://posts.careerengine.us/p/668e7762a10bdd744695a004)  
+- [2024-07-10-李嘉诚家族办公室，来了](https://posts.careerengine.us/p/668e774ea7e9f773c1503b02)  
 - [2024-07-09-一群信仰中国半导体的人](https://posts.careerengine.us/p/668ca7ae8defaa58ee06d3d1)  
-- [2024-07-08-VC开抢字节前员工](https://posts.careerengine.us/p/668b9bc4a509e07d48799445)  
-- [2024-07-08-今年国资LP最爱的赛道](https://posts.careerengine.us/p/668b9bd2f0728c7d7774fd7c)  
-- [2024-07-08-我把国产车卖到中亚](https://posts.careerengine.us/p/668b9bd3f0728c7d7774fd84)  
+- [2024-07-09-VC/PE半年IPO成绩缩水](https://posts.careerengine.us/p/668ca7ae8defaa58ee06d3c8)  
+- [2024-07-09-6月过后，油车更难](https://posts.careerengine.us/p/668ca7bc185ec759161774a3)  
 - [2024-07-08-这届年轻人还选金融吗](https://posts.careerengine.us/p/668b9be18172ee7e1eed9a1a)  
-- [2024-07-07-五个人，募资30亿](https://posts.careerengine.us/p/668a4fc502f8e11901482b1a)  
+- [2024-07-08-我把国产车卖到中亚](https://posts.careerengine.us/p/668b9bd3f0728c7d7774fd84)  
+- [2024-07-08-今年国资LP最爱的赛道](https://posts.careerengine.us/p/668b9bd2f0728c7d7774fd7c)  
 - [......【查看更多】......](/details/投资界.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
