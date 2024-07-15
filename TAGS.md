@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-15 01:52:14。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-15 02:41:00。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,6 +28,7 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
+- [【雪球热帖】鲁大师CEO田野：NAS免费用，AI自己养，鲁大师AiNAS为用户搭建本地大模型](https://xueqiu.com/8151841495/297482336)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -44,7 +45,6 @@
 
 
 
-- [【财联社】环球下周看点：美联储高官密集发声-两家芯片巨头公布财报](https://www.cls.cn/detail/1733164)
 - [【雪球热帖】1994年7月至2024年7月，30年间表现最好的30只标普500指数成份股。英伟达，游戏及智能芯片，3400倍，亚马逊，零售与科技，2575倍，怪物饮料，功能饮料，2017倍，N...](https://xueqiu.com/8056783660/297410134)
 - [【投资界】一群信仰中国半导体的人](https://posts.careerengine.us/p/668ca7ae8defaa58ee06d3d1)
 - [......【查看更多】......](/details/tags/tech.md)
