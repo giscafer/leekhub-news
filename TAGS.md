@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-17 04:32:19。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-17 05:31:55。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,7 +28,6 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
-- [【雪球热帖】鲁大师CEO田野：NAS免费用，AI自己养，鲁大师AiNAS为用户搭建本地大模型](https://xueqiu.com/8151841495/297482336)
 - [......【查看更多】......](/details/tags/aigc.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -45,10 +44,10 @@
 
 
 
-- [【财联社】券商晨会精华：科创芯片将发布新主题指数，芯片设计板块或迎“科特估”行情](https://www.cls.cn/detail/1735840)
-- [【财联社】科技股走强带动短线情绪回暖，留意国产化逻辑下延伸性机会](https://www.cls.cn/detail/1735915)
-- [【财联社】“硅谷严选”：美国科技风投圈正排队向特朗普捐款](https://www.cls.cn/detail/1735957)
 - [【财联社】【午报】北证50指数涨近6%！上海国企改革概念股爆发，PCB等科技股遭集体调整](https://www.cls.cn/detail/1736102)
+- [【财联社】“硅谷严选”：美国科技风投圈正排队向特朗普捐款](https://www.cls.cn/detail/1735957)
+- [【财联社】科技股走强带动短线情绪回暖，留意国产化逻辑下延伸性机会](https://www.cls.cn/detail/1735915)
+- [【财联社】券商晨会精华：科创芯片将发布新主题指数，芯片设计板块或迎“科特估”行情](https://www.cls.cn/detail/1735840)
 - [......【查看更多】......](/details/tags/tech.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
