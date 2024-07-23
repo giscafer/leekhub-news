@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-23 02:39:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-23 03:34:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -9,3 +9,4 @@
 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
+- [2024-07-23-人社部：1-6月三项社会保险基金总收入4.1万亿元、总支出3.6万亿元-6月底累计结余8.8万亿元](https://www.cls.cn/detail/1741315) 
