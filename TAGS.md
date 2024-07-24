@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-24 02:39:34。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-24 03:31:55。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -46,6 +46,7 @@
 
 
 - [【财联社】7月24日投资避雷针：芯源微、澜起科技、聚辰股份公告询价转让定价-均低于当前股价](https://www.cls.cn/detail/1742423)
+- [【财联社】弱势环境下资金加速高位抱团，半导体产业能否及时修复仍是短线情绪回暖的关键](https://www.cls.cn/detail/1742498)
 - [......【查看更多】......](/details/tags/tech.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -97,6 +98,7 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
+- [【财联社】广西、云南等地中小银行补降存款利率-最高下调40BP-专家：降息小幅拖累银行息差-新一轮存款利率调降迫在眉睫](https://www.cls.cn/detail/1742621)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
