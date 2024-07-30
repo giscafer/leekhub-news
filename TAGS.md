@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-30 18:33:57。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-30 19:30:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -100,8 +100,8 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】可查询数字人民币和未到期理财！交通银行发布最新询证函业务指引-，新规后国有五大行已集齐](https://www.cls.cn/detail/1748029)
 - [【财联社】金融监管、保险机构纷纷召开年中工作会议-为何防控风险成为关键词？](https://www.cls.cn/detail/1747955)
+- [【财联社】可查询数字人民币和未到期理财！交通银行发布最新询证函业务指引-，新规后国有五大行已集齐](https://www.cls.cn/detail/1748029)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
