@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-01 06:35:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-01 07:31:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -11,5 +11,4 @@
 - [2023-08-17-大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574) 
 - [2023-08-16-品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569) 
 - [2023-08-16-AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570) 
-- [2024-07-30-荷兰国王、Chat-GPT之母、金曲奖天后，UWC你还有什么惊喜是我们不知道的？](https://xueqiu.com/9199209149/299288774) 
 - [2024-07-17-9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09) 
