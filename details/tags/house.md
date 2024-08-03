@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-03 00:45:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-03 01:49:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -9,3 +9,4 @@
 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
+- [2024-08-03-着力发展增量市场-上海国际再保险中心建设再迎政策支持！将每年设立不低于3000万元的专项扶持资金](https://www.cls.cn/detail/1753154) 
