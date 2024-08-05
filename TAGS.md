@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-05 01:52:26。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-05 02:40:48。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -45,7 +45,6 @@
 
 
 
-- [【财联社】【数读IPO】今日2只新股申购，涉及半导体设备细分领域龙头等](https://www.cls.cn/detail/1753645)
 - [......【查看更多】......](/details/tags/tech.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
