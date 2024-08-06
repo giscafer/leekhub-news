@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-06 00:45:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-06 01:51:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -9,4 +9,3 @@
 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
-- [2024-08-05-财联社债市早参8月5日|上海金融法院受理安邦保险集团的破产清算申请；10年国债收益率即将挑战2.1%？](https://www.cls.cn/detail/1753711) 
