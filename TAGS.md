@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-16 05:31:56。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-16 06:34:45。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -97,6 +97,7 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
+- [【财联社】财联社债市早参8月16日|监管否认限制银行SPV对公募投资及取消银行投资债基税收优惠；央行行长潘功胜称将逐步淡化对数量目标的关注](https://www.cls.cn/detail/1765977)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
