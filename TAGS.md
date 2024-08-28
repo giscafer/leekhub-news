@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-28 12:42:10。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-28 13:32:03。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -98,8 +98,9 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】券商晨会精华：高股息策略仍应是银行股投资的主线思路](https://www.cls.cn/detail/1778985)
 - [【财联社】突发！蔡希良接替白涛出任中国人寿保险集团党委书记](https://www.cls.cn/detail/1779195)
+- [【财联社】券商晨会精华：高股息策略仍应是银行股投资的主线思路](https://www.cls.cn/detail/1778985)
+- [【雪球热帖】香港银行卡的开户全流程](https://xueqiu.com/7826304833/302654696)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
