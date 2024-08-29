@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-29 05:32:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-29 06:35:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -9,5 +9,4 @@
 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
-- [2024-08-28-券商晨会精华：高股息策略仍应是银行股投资的主线思路](https://www.cls.cn/detail/1778985) 
 - [2024-08-28-香港银行卡的开户全流程](https://xueqiu.com/7826304833/302654696) 
