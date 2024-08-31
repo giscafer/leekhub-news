@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-30 23:30:50。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-31 00:45:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -78,6 +78,7 @@
 
 
 
+- [【财联社】北大清华教育基金会狂买ETF，多只ETF买进前十大持有人](https://www.cls.cn/detail/1784678)
 - [......【查看更多】......](/details/tags/teach.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
