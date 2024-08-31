@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-31 00:45:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-31 01:54:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -9,4 +9,4 @@
 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
-- [2024-08-30-央行官网上线“公开市场国债买卖业务公告”页面-或预示着人民银行下场买卖国债脚步渐进](https://www.cls.cn/detail/1783176) 
+- [2024-08-31-QFII最新持仓出炉，外资抓住了猛涨的银行股，房地产股仍被青睐](https://www.cls.cn/detail/1784675) 
