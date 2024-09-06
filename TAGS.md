@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-09-06 02:42:47。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-09-06 03:32:44。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -103,7 +103,7 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】中信证券：银行板块基本面格局稳定-板块回调后配置价值显现](https://www.cls.cn/detail/1789354)
+- [【财联社】中国房地产报：存量房贷利率，等待下调](https://www.cls.cn/detail/1791007)
 - [【雪球热帖】【完整版】高善文：房地产危机&nbsp;视频链接](https://xueqiu.com/6528852209/303399624)
 - [......【查看更多】......](/details/tags/house.md)
 
