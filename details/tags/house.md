@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-10 03:33:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-10 04:34:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -9,3 +9,4 @@
 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
+- [2024-09-10-财联社债市早参9月10日|额度告急，“存款搬家”银行对同业存单依赖提升；9亿卖盘突袭，文灿转债跌停](https://www.cls.cn/detail/1793988) 
