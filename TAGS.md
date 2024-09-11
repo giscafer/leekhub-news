@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-09-11 00:45:17。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-09-11 01:55:16。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -46,7 +46,6 @@
 
 
 
-- [【财联社】美国大选撕裂硅谷！大型科技公司员工压倒性支持哈里斯](https://www.cls.cn/detail/1793970)
 - [【雪球热帖】@大道无形我有型-大道，我38岁，有一份半导体marketing-的工作。业务投资，其实就是买入贵州茅台，和一些美股。我的策略是买入茅台就不动了，安心持有，现在有10...](https://xueqiu.com/5591278169/304152837)
 - [......【查看更多】......](/details/tags/tech.md)
 
@@ -65,6 +64,7 @@
 
 
 - [【AI财经社】茅台来了一位女将](https://www.aicaijing.com.cn/article/18587)
+- [【雪球热帖】为什么上一轮白酒周期，茅台价格崩得那么快？](https://xueqiu.com/1010392927/304160506)
 - [......【查看更多】......](/details/tags/xiaofei.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -99,7 +99,6 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】财联社债市早参9月10日|额度告急，“存款搬家”银行对同业存单依赖提升；9亿卖盘突袭，文灿转债跌停](https://www.cls.cn/detail/1793988)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
