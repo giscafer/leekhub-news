@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-09-16 04:34:33。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-09-16 05:34:26。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -98,7 +98,6 @@
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
 - [【财联社】中国房地产报：楼市要做好政策“一盘棋”才行](https://www.cls.cn/detail/1799909)
-- [【雪球热帖】养老金和房地产这个话题。归根结底是m2超发！是钱不值钱了！如果没有一个蓄水池来吸收这超发的货币，那肯定会对物价上涨价。。。房地产在前些年扮演的角色是块海...](https://xueqiu.com/5939653998/304648074)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
