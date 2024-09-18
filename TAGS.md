@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-09-18 17:32:08。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-09-18 18:35:29。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -101,8 +101,8 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】财联社债市早参9月18日|多家中小银行下调存款利率，降幅可达60基点；10年国债收益率直逼2.0%](https://www.cls.cn/detail/1801188)
 - [【财联社】【午报】三大指数持续缩量调整，全市场近4600股飘绿，光刻机、保险等方向逆势走强](https://www.cls.cn/detail/1801418)
+- [【财联社】财联社债市早参9月18日|多家中小银行下调存款利率，降幅可达60基点；10年国债收益率直逼2.0%](https://www.cls.cn/detail/1801188)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
