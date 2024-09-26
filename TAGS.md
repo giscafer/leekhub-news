@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-09-26 06:36:41。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-09-26 07:30:56。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -98,7 +98,6 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【雪球热帖】/瑞银大中华区房地产研究主管分析师John-Lam，曾因在2021年初对中国恒大集团给出卖出评级而声名鹊起。他的这一预测在随后恒大的财务危机中得到了验证。如今，Joh...](https://xueqiu.com/3167081651/305672942)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
