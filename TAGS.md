@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-10-03 08:35:05。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-10-03 09:32:34。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -97,6 +97,7 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
+- [【财联社】港股盘中巨震恒指跌超1%-房地产股跌幅居前](https://www.cls.cn/detail/1815963)
 - [【财联社】港股三大指数均创近两年最大单日涨幅-券商和地产股领涨](https://www.cls.cn/detail/1815582)
 - [......【查看更多】......](/details/tags/house.md)
 
