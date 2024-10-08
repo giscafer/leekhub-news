@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-10-08 03:36:04。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-10-08 06:36:32。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -46,6 +46,7 @@
 
 
 - [【财联社】港股持续飙涨进一步刺激A股逼空情绪，科技方向或有望成新热点](https://www.cls.cn/detail/1817695)
+- [【财联社】三星Q3利润不及预期！芯片业务负责人罕见致歉](https://www.cls.cn/detail/1817910)
 - [【雪球热帖】24-9-26-复制双城药业？富乐德并购FERROTEC半导体资产](https://xueqiu.com/8772786299/305782060)
 - [......【查看更多】......](/details/tags/tech.md)
 
@@ -98,6 +99,7 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
+- [【财联社】港股房地产股延续弱势！雅居乐集团跌超30%](https://www.cls.cn/detail/1817917)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
