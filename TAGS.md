@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-10-09 23:31:53。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-10-10 00:45:19。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -98,6 +98,8 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
+- [【财联社】10月10日投资避雷针：保险板块龙头遭摩根大通减持约15.14亿港元H股](https://www.cls.cn/detail/1820486)
+- [【财联社】首期操作规模5000亿元，央行决定创设“证券、基金、保险公司互换便利”](https://www.cls.cn/detail/1820489)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
