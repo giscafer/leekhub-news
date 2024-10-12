@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-10-12 16:35:25。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-10-12 17:31:22。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -97,8 +97,8 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】新华保险原董事长李全被逮捕-曾被批肆无忌惮“靠金融吃金融”](https://www.cls.cn/detail/1823073)
 - [【财联社】10%股权挂牌！“退金令”影响持续-北京一村镇银行第二大股东清仓转让-专家：能否成功转让关键在价格](https://www.cls.cn/detail/1823074)
+- [【财联社】新华保险原董事长李全被逮捕-曾被批肆无忌惮“靠金融吃金融”](https://www.cls.cn/detail/1823073)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
