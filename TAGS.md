@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-10-14 00:45:29。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-10-14 02:00:15。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,7 +28,6 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
-- [【财联社】超万卡集群-万亿级Token数据-万亿参数模型！中移动瞄准“AI+”-产业链加力|行业动态](https://www.cls.cn/detail/1823769)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -100,6 +99,7 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
+- [【财联社】出手降温！上半年内地访客购买近300亿港险后，广东启动非法销售跨境保险专项治理，有何影响？](https://www.cls.cn/detail/1823980)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
