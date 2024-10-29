@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-10-29 02:00:11。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-10-29 02:45:45。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -100,6 +100,7 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
+- [【财联社】财联社债市早参10月29日|央行启用买断式逆回购新工具-；本轮行情银行理财赎回达1.24万亿；三家房企今日集体从港交所退市](https://www.cls.cn/detail/1840407)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
