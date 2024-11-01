@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-11-01 02:51:02。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-11-01 03:38:33。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -64,6 +64,7 @@
 
 
 - [【AI财经社】茅台来了一位女将](https://www.aicaijing.com.cn/article/18587)
+- [【雪球热帖】泸州老窖：顺势而为，底部去库存，长期向好趋势不变](https://xueqiu.com/9262059293/310659956)
 - [【雪球热帖】比起泸州老窖符合预期的三季报，我更关注长期价值](https://xueqiu.com/7318086163/310554998)
 - [......【查看更多】......](/details/tags/xiaofei.md)
 
@@ -100,7 +101,6 @@
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
 - [【财联社】海通的银行首席到国海了，早有调侃：国君海通合并，派点要帮你打到国海吗](https://www.cls.cn/detail/1845122)
-- [【财联社】不必再等一年-六大银行明起实施存量房贷利率调整新机制](https://www.cls.cn/detail/1843718)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
