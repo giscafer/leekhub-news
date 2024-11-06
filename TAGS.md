@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-11-06 09:33:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-11-06 10:34:48。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -101,6 +101,7 @@
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
 - [【财联社】费率也迎“双十一”？-11月银行理财密集下调销售服务费、管理费-理财市场争夺战持续](https://www.cls.cn/detail/1849758)
+- [【雪球热帖】个人观点：房地产中短期走稳，长期跑不赢通胀](https://xueqiu.com/8790885129/311313413)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
