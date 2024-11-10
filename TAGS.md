@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-11-10 08:33:21。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-11-10 09:30:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -99,8 +99,8 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】中国房地产报：楼市初步止跌-“堰塞湖”现象仍须消除](https://www.cls.cn/detail/1853643)
 - [【财联社】10万亿化债如何影响商业银行？未来五年资本消耗望降低5000亿，但信贷规模利息收入或现缺口](https://www.cls.cn/detail/1853715)
+- [【财联社】中国房地产报：楼市初步止跌-“堰塞湖”现象仍须消除](https://www.cls.cn/detail/1853643)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
