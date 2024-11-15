@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-11-15 06:38:50。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-11-15 07:32:08。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -45,8 +45,8 @@
 
 
 
-- [【财联社】券商晨会精华：科技产业的投资主线2025年将继续围绕AI展开，关注三个方向](https://www.cls.cn/detail/1859430)
 - [【财联社】【午报】三大指数再度缩量收跌，半导体板块遭遇重挫，AI应用方向逆势走强](https://www.cls.cn/detail/1859708)
+- [【财联社】券商晨会精华：科技产业的投资主线2025年将继续围绕AI展开，关注三个方向](https://www.cls.cn/detail/1859430)
 - [【雪球热帖】本打算月底會有大錢回籠，現在幾只sell-covered-call估計都砸手里了，這幾天虧的都是我的錢$阿里巴巴-W09988$-$中国联通00762$-$建设银行00939$](https://xueqiu.com/9650668145/312666328)
 - [......【查看更多】......](/details/tags/tech.md)
 
@@ -65,7 +65,6 @@
 
 
 - [【AI财经社】茅台来了一位女将](https://www.aicaijing.com.cn/article/18587)
-- [【雪球热帖】A股竟然有10个公司盈利能力比肩茅台，脚踩台积电，太牛了](https://xueqiu.com/3721066380/312770951)
 - [......【查看更多】......](/details/tags/xiaofei.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -100,8 +99,8 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】国家统计局：1—10月份全国房地产开发投资86309亿元，同比下降10.3%](https://www.cls.cn/detail/1859467)
 - [【财联社】批量上拍超1000宗个人房产？成都银行旗下锦程消金再度集中处置资产，有项目不到1折起拍](https://www.cls.cn/detail/1859692)
+- [【财联社】国家统计局：1—10月份全国房地产开发投资86309亿元，同比下降10.3%](https://www.cls.cn/detail/1859467)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
