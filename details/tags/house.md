@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-11-16 06:35:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-16 07:31:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -9,4 +9,3 @@
 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
-- [2024-11-15-国家统计局：1—10月份全国房地产开发投资86309亿元，同比下降10.3%](https://www.cls.cn/detail/1859467) 
