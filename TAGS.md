@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-05 00:45:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-12-05 02:05:23。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -82,7 +82,6 @@
 
 
 
-- [【财联社】教育部：严肃查处培训机构“卷款跑路”、“恶意闭店”等行为](https://www.cls.cn/detail/1878319)
 - [......【查看更多】......](/details/tags/teach.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -101,6 +100,7 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
+- [【财联社】中信证券：核心城市的地产政策放松空间很大](https://www.cls.cn/detail/1879460)
 - [【雪球热帖】最新、最全香港银行卡开户攻略--突发福利：汇丰可以线上开户了](https://xueqiu.com/8108653112/313443790)
 - [......【查看更多】......](/details/tags/house.md)
 
