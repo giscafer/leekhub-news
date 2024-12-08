@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-08 22:34:06。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-12-08 23:31:16。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -100,8 +100,8 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】当前中国经济问答：房地产市场走势怎么看](https://www.cls.cn/detail/1882511)
 - [【财联社】“保险+期货”业务首份规范性文件出台，保底赔付条款等四类行为被禁止](https://www.cls.cn/detail/1882360)
+- [【财联社】当前中国经济问答：房地产市场走势怎么看](https://www.cls.cn/detail/1882511)
 - [【雪球热帖】最新、最全香港银行卡开户攻略--突发福利：汇丰可以线上开户了](https://xueqiu.com/8108653112/313443790)
 - [......【查看更多】......](/details/tags/house.md)
 
