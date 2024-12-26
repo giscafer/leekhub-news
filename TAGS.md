@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-26 03:34:57。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-12-26 04:34:20。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,6 +28,7 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
+- [【财联社】证券业的“AI风暴”，24家券商凭大模型开启智能进化之旅，都在如何布局？](https://www.cls.cn/detail/1900626)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -46,7 +47,7 @@
 
 
 - [【财联社】AI、自动驾驶、脑机接口…盘点2024全球科技界十大“震惊”事件-|-财联社环球年终盘点](https://www.cls.cn/detail/1899273)
-- [【财联社】市场再迎缩量修复，留意泛科技内部的轮动性机会](https://www.cls.cn/detail/1899452)
+- [【财联社】科技巨头押注核电SMR技术路线-国内核准提速-民营资本加速入场丨年终盘点](https://www.cls.cn/detail/1900677)
 - [【雪球热帖】加快构建同创新相适应的科技金融体制](https://xueqiu.com/9193403816/313561745)
 - [【雪球热帖】国芯科技：自主芯片技术突破，AIMCU重塑行业格局](https://xueqiu.com/8151841495/313402043)
 - [......【查看更多】......](/details/tags/tech.md)
