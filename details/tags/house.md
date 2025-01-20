@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-20 02:43:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-20 03:33:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -9,4 +9,5 @@
 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
+- [2025-01-20-建发房地产业务的高速路口](https://www.cls.cn/detail/1923368) 
 - [2024-11-19-最新、最全香港银行卡开户攻略--突发福利：汇丰可以线上开户了](https://xueqiu.com/8108653112/313443790) 
