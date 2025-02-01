@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-02-01 01:59:31。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-02-01 02:44:07。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,8 +28,8 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
-- [【财联社】OpenAI首次向免费用户开放推理模型-特朗普与黄仁勋会面｜环球市场](https://www.cls.cn/detail/1933049)
 - [【财联社】OpenAI最新融资目标估值又翻一倍-特朗普关税忧虑升温｜环球市场](https://www.cls.cn/detail/1932775)
+- [【财联社】OpenAI首次向免费用户开放推理模型-特朗普与黄仁勋会面｜环球市场](https://www.cls.cn/detail/1933049)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
