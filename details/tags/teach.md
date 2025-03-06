@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-03-06 02:46:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-06 03:37:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 教育
 
@@ -7,5 +7,4 @@
 
 
 
-- [2025-03-05-教育部部长谈DeepSeek：是教育改革和发展的重大机遇](https://www.cls.cn/detail/1961661) 
 - [2025-03-05-DeepSeek重要应用方向？教育部部长透露：AI教育白皮书将发布](https://www.cls.cn/detail/1961914) 

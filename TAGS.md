@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-03-06 02:46:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-03-06 03:37:19。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -82,7 +82,6 @@
 
 
 
-- [【财联社】教育部部长谈DeepSeek：是教育改革和发展的重大机遇](https://www.cls.cn/detail/1961661)
 - [【财联社】DeepSeek重要应用方向？教育部部长透露：AI教育白皮书将发布](https://www.cls.cn/detail/1961914)
 - [......【查看更多】......](/details/tags/teach.md)
 
