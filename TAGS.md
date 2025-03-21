@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-03-21 02:49:34。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-03-21 03:38:32。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,6 +28,7 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
+- [【财联社】DeepSeek大模型一体机的落地“鸿沟”|深度](https://www.cls.cn/detail/1979144)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -46,9 +47,9 @@
 
 
 - [【财联社】美光公布强劲财报-2025年HBM芯片产能已售罄](https://www.cls.cn/detail/1978924)
-- [【财联社】【每日收评】创业板指震荡下挫跌1%，深海科技概念逆势爆发，机器人概念股反复活跃](https://www.cls.cn/detail/1978211)
-- [【财联社】越疆科技打响机器人“性价比之战”-行业或加速从研发向量产转型](https://www.cls.cn/detail/1977673)
+- [【财联社】中国移动对推理资源的投资不设上限-国内有望迎来算力基建大时代](https://www.cls.cn/detail/1978894)
 - [【财联社】深海科技+机器人-国产装备登国际顶刊-机构看好这些产业环节](https://www.cls.cn/detail/1978239)
+- [【财联社】越疆科技打响机器人“性价比之战”-行业或加速从研发向量产转型](https://www.cls.cn/detail/1977673)
 - [【雪球热帖】加快构建同创新相适应的科技金融体制](https://xueqiu.com/9193403816/313561745)
 - [【雪球热帖】国芯科技：自主芯片技术突破，AIMCU重塑行业格局](https://xueqiu.com/8151841495/313402043)
 - [......【查看更多】......](/details/tags/tech.md)
