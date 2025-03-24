@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-03-23 22:33:35。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-03-24 00:45:39。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,7 +28,6 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
-- [【财联社】DeepSeek大模型一体机的落地“鸿沟”|深度](https://www.cls.cn/detail/1979144)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -46,9 +45,8 @@
 
 
 
-- [【财联社】独家对话明讯科技创始人吴凌峰：我为什么公开指控同创伟业？](https://www.cls.cn/detail/1980504)
 - [【财联社】机构密集调研深海科技概念股！龙头7连板，月初迄今接待量居前热门股名单来了](https://www.cls.cn/detail/1980496)
-- [【财联社】中国移动对推理资源的投资不设上限-国内有望迎来算力基建大时代](https://www.cls.cn/detail/1978894)
+- [【财联社】独家对话明讯科技创始人吴凌峰：我为什么公开指控同创伟业？](https://www.cls.cn/detail/1980504)
 - [【财联社】【午报】沪指跌近1%失守3400点，全市场超4300股飘绿，深海科技概念逆势活跃](https://www.cls.cn/detail/1979225)
 - [【雪球热帖】加快构建同创新相适应的科技金融体制](https://xueqiu.com/9193403816/313561745)
 - [【雪球热帖】国芯科技：自主芯片技术突破，AIMCU重塑行业格局](https://xueqiu.com/8151841495/313402043)
