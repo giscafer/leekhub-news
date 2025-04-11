@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-04-10 23:32:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-04-11 00:45:33。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -100,7 +100,6 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】“对等关税”来袭，部分银行被要求上报六大外贸行业数据-|-调研](https://www.cls.cn/detail/1999853)
 - [【财联社】上市公司回购增持加速-银行加大资金支持力度](https://www.cls.cn/detail/1999710)
 - [【雪球热帖】最新、最全香港银行卡开户攻略--突发福利：汇丰可以线上开户了](https://xueqiu.com/8108653112/313443790)
 - [......【查看更多】......](/details/tags/house.md)
