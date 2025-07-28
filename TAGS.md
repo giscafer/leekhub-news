@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-07-28 07:36:28。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-07-28 08:40:59。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,7 +28,6 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
-- [【财联社】“顶流机器人给我递可乐”！阿里投身“百镜大战”-大模型落地提速|直击WAIC2025](https://www.cls.cn/detail/2097318)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -46,6 +45,7 @@
 
 
 
+- [【财联社】云天励飞战略聚焦AI芯片，三大核心布局押注推理蓝海](https://www.cls.cn/detail/2097911)
 - [【雪球热帖】加快构建同创新相适应的科技金融体制](https://xueqiu.com/9193403816/313561745)
 - [【雪球热帖】国芯科技：自主芯片技术突破，AIMCU重塑行业格局](https://xueqiu.com/8151841495/313402043)
 - [......【查看更多】......](/details/tags/tech.md)
@@ -82,7 +82,6 @@
 
 
 
-- [【财联社】周末要闻汇总：国常会重磅部署！事关逐步推行免费学前教育；中国政府倡议成立世界人工智能合作组织](https://www.cls.cn/detail/2097415)
 - [......【查看更多】......](/details/tags/teach.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
