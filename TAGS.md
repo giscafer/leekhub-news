@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-08-07 07:36:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-08-07 08:40:36。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,6 +28,7 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
+- [【财联社】GPT-5要来了？OpenAI官方预告引遐想-AI应用或迎来加速发展](https://www.cls.cn/detail/2108417)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -45,8 +46,8 @@
 
 
 
-- [【财联社】特朗普：将对芯片和半导体征收100%关税，“美国制造”除外！](https://www.cls.cn/detail/2108278)
 - [【财联社】7月重点商品出海数据出炉：集成电路、汽车同比强势连增-稀土环比增超五成](https://www.cls.cn/detail/2108562)
+- [【财联社】特朗普：将对芯片和半导体征收100%关税，“美国制造”除外！](https://www.cls.cn/detail/2108278)
 - [【雪球热帖】加快构建同创新相适应的科技金融体制](https://xueqiu.com/9193403816/313561745)
 - [【雪球热帖】国芯科技：自主芯片技术突破，AIMCU重塑行业格局](https://xueqiu.com/8151841495/313402043)
 - [......【查看更多】......](/details/tags/tech.md)
