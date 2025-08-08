@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-08-08 08:40:30。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-08-08 09:38:36。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -83,7 +83,6 @@
 
 
 
-- [【财联社】保育教育费按照什么标准免？财政部详解](https://www.cls.cn/detail/2108334)
 - [......【查看更多】......](/details/tags/teach.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
