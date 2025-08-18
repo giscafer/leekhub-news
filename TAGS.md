@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-08-17 23:32:55。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-08-18 00:46:10。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,6 +28,7 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
+- [【财联社】【早报】事关货币政策、物价，央行报告释放重要信号；OpenAI将豪掷数万亿美元，AI基建迎利好](https://www.cls.cn/detail/2117493)
 - [【财联社】估值升至5000亿美元！OpenAI洽谈出售约60亿美元员工股权](https://www.cls.cn/detail/2117072)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
@@ -46,6 +47,7 @@
 
 
 
+- [【财联社】千亿半导体龙头筹划资产收购-股票明起停牌|盘后公告集锦](https://www.cls.cn/detail/2117397)
 - [【雪球热帖】加快构建同创新相适应的科技金融体制](https://xueqiu.com/9193403816/313561745)
 - [【雪球热帖】国芯科技：自主芯片技术突破，AIMCU重塑行业格局](https://xueqiu.com/8151841495/313402043)
 - [......【查看更多】......](/details/tags/tech.md)
