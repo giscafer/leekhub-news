@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-09-23 10:35:00。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-09-23 11:30:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,8 +28,8 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
-- [【财联社】华尔街热议英伟达重金投资OpenAI-美银：或带来5倍高额回报！](https://www.cls.cn/detail/2152978)
 - [【财联社】英伟达、甲骨文、OpenAI-动辄千亿的三角游戏闭环了？](https://www.cls.cn/detail/2152949)
+- [【财联社】华尔街热议英伟达重金投资OpenAI-美银：或带来5倍高额回报！](https://www.cls.cn/detail/2152978)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -47,9 +47,9 @@
 
 
 
-- [【财联社】【每日收评】创业板午后上演V型反弹小幅收红，半导体芯片产业链尾盘集体爆发](https://www.cls.cn/detail/2153397)
-- [【财联社】一汽战投卓驭科技、东风深化与华为合作-汽车央企加速智能化深度布局](https://www.cls.cn/detail/2153216)
 - [【财联社】半导体“通胀”再现？台积电据称将2纳米节点价格至少上调50%](https://www.cls.cn/detail/2153013)
+- [【财联社】一汽战投卓驭科技、东风深化与华为合作-汽车央企加速智能化深度布局](https://www.cls.cn/detail/2153216)
+- [【财联社】【每日收评】创业板午后上演V型反弹小幅收红，半导体芯片产业链尾盘集体爆发](https://www.cls.cn/detail/2153397)
 - [【雪球热帖】加快构建同创新相适应的科技金融体制](https://xueqiu.com/9193403816/313561745)
 - [【雪球热帖】国芯科技：自主芯片技术突破，AIMCU重塑行业格局](https://xueqiu.com/8151841495/313402043)
 - [......【查看更多】......](/details/tags/tech.md)
@@ -104,8 +104,8 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】【午报】三大指数半日跌超1%，全市场近5000股飘绿，银行板块逆势走强](https://www.cls.cn/detail/2153042)
 - [【财联社】【焦点复盘】市场尾盘现绝地反击，沪指3800点失而复得，银行板块现久违普涨反弹](https://www.cls.cn/detail/2153504)
+- [【财联社】【午报】三大指数半日跌超1%，全市场近5000股飘绿，银行板块逆势走强](https://www.cls.cn/detail/2153042)
 - [【雪球热帖】最新、最全香港银行卡开户攻略--突发福利：汇丰可以线上开户了](https://xueqiu.com/8108653112/313443790)
 - [......【查看更多】......](/details/tags/house.md)
 
