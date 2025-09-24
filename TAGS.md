@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-09-24 08:37:16。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-09-24 09:33:31。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,7 +28,6 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
-- [【财联社】英伟达、甲骨文、OpenAI-动辄千亿的三角游戏闭环了？](https://www.cls.cn/detail/2152949)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -46,10 +45,11 @@
 
 
 
-- [【财联社】【午报】科创50指数涨近5%，半导体芯片板块持续爆发，北方华创等20余股涨停](https://www.cls.cn/detail/2154333)
-- [【财联社】美光财报会拆解半导体供需：DRAM/NAND库存下降-HBM成增长核心](https://www.cls.cn/detail/2154342)
-- [【财联社】多重催化下半导体上游全线爆发-设备、材料环节驱动科创50大涨近5%](https://www.cls.cn/detail/2154331)
 - [【财联社】市场探底回升显韧性！半导体成领涨关键，留意科技股内部扩散机会](https://www.cls.cn/detail/2154124)
+- [【财联社】多重催化下半导体上游全线爆发-设备、材料环节驱动科创50大涨近5%](https://www.cls.cn/detail/2154331)
+- [【财联社】美光财报会拆解半导体供需：DRAM/NAND库存下降-HBM成增长核心](https://www.cls.cn/detail/2154342)
+- [【财联社】【午报】科创50指数涨近5%，半导体芯片板块持续爆发，北方华创等20余股涨停](https://www.cls.cn/detail/2154333)
+- [【财联社】湖北：推动8英寸芯片晶圆、GPU芯片、车规级AI芯片等一批全国“首发”光通信技术和产品规模化应用](https://www.cls.cn/detail/2154424)
 - [【雪球热帖】加快构建同创新相适应的科技金融体制](https://xueqiu.com/9193403816/313561745)
 - [【雪球热帖】国芯科技：自主芯片技术突破，AIMCU重塑行业格局](https://xueqiu.com/8151841495/313402043)
 - [......【查看更多】......](/details/tags/tech.md)
