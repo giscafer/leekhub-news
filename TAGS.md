@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-09-30 00:45:43。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-09-30 02:47:47。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,6 +28,7 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
+- [【财联社】华为昇腾、寒武纪、海光信息适配DeepSeek最新模型](https://www.cls.cn/detail/2160149)
 - [【财联社】AI下一轮飞跃的引爆点：科技巨头竞相发力“世界模型”！](https://www.cls.cn/detail/2159294)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
@@ -46,7 +47,6 @@
 
 
 
-- [【财联社】外交部：中方将增设青年科技人才签证](https://www.cls.cn/detail/2159363)
 - [【雪球热帖】加快构建同创新相适应的科技金融体制](https://xueqiu.com/9193403816/313561745)
 - [【雪球热帖】国芯科技：自主芯片技术突破，AIMCU重塑行业格局](https://xueqiu.com/8151841495/313402043)
 - [......【查看更多】......](/details/tags/tech.md)
