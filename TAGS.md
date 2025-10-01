@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-10-01 02:09:39。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-10-01 02:57:30。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,9 +28,9 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
-- [【财联社】国产AI软硬协同加速：DeepSeek新模型上线-一众芯片厂商官宣Day-0适配](https://www.cls.cn/detail/2160186)
-- [【财联社】无惧泡沫警告？黄仁勋大胆预测：OpenAI或成为下一个万亿美元巨头！](https://www.cls.cn/detail/2160132)
 - [【财联社】华为昇腾、寒武纪、海光信息适配DeepSeek最新模型](https://www.cls.cn/detail/2160149)
+- [【财联社】无惧泡沫警告？黄仁勋大胆预测：OpenAI或成为下一个万亿美元巨头！](https://www.cls.cn/detail/2160132)
+- [【财联社】国产AI软硬协同加速：DeepSeek新模型上线-一众芯片厂商官宣Day-0适配](https://www.cls.cn/detail/2160186)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -48,10 +48,10 @@
 
 
 
-- [【财联社】【焦点复盘】双创指数9月均涨超10%，存储芯片概念持续火爆，2000亿市值军机龙头再创历史新高](https://www.cls.cn/detail/2160844)
-- [【财联社】DeepSeek-V3.2-Exp发布并开源-国产芯片深度协同有望全面受益](https://www.cls.cn/detail/2160095)
-- [【财联社】【午报】三大指数震荡整理均小幅收涨，有色、存储芯片板块联袂领涨](https://www.cls.cn/detail/2160391)
 - [【财联社】【每日收评】三大指数全线收红，有色板块延续强势，半导体产业链持续爆发](https://www.cls.cn/detail/2160782)
+- [【财联社】【午报】三大指数震荡整理均小幅收涨，有色、存储芯片板块联袂领涨](https://www.cls.cn/detail/2160391)
+- [【财联社】DeepSeek-V3.2-Exp发布并开源-国产芯片深度协同有望全面受益](https://www.cls.cn/detail/2160095)
+- [【财联社】【焦点复盘】双创指数9月均涨超10%，存储芯片概念持续火爆，2000亿市值军机龙头再创历史新高](https://www.cls.cn/detail/2160844)
 - [【雪球热帖】加快构建同创新相适应的科技金融体制](https://xueqiu.com/9193403816/313561745)
 - [【雪球热帖】国芯科技：自主芯片技术突破，AIMCU重塑行业格局](https://xueqiu.com/8151841495/313402043)
 - [......【查看更多】......](/details/tags/tech.md)
@@ -106,8 +106,8 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】北京房地产中介协会：倡议不唱衰做空市场、禁止虚假带看及引诱业主低价挂牌等](https://www.cls.cn/detail/2160457)
 - [【财联社】银行理财规模走出“抛物线”，三季度现1500亿元回调](https://www.cls.cn/detail/2160539)
+- [【财联社】北京房地产中介协会：倡议不唱衰做空市场、禁止虚假带看及引诱业主低价挂牌等](https://www.cls.cn/detail/2160457)
 - [【雪球热帖】最新、最全香港银行卡开户攻略--突发福利：汇丰可以线上开户了](https://xueqiu.com/8108653112/313443790)
 - [......【查看更多】......](/details/tags/house.md)
 
