@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-10-06 00:45:50。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-10-06 02:03:30。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -29,8 +29,8 @@
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
 - [【财联社】大模型激战正酣！大厂节前、节中进展不停-争夺下一代操作系统主导权](https://www.cls.cn/detail/2162673)
-- [【财联社】OpenAI再造爆款？AI视频社交应用Sora问鼎苹果热门App榜单](https://www.cls.cn/detail/2162309)
 - [【财联社】“抢场地、抢演员、AIGC助力”-日均百部短剧齐拍-实探郑州短剧基地|一线](https://www.cls.cn/detail/2162019)
+- [【财联社】OpenAI再造爆款？AI视频社交应用Sora问鼎苹果热门App榜单](https://www.cls.cn/detail/2162309)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -49,7 +49,6 @@
 
 
 - [【财联社】存储将迎“超级周期”？多国芯片巨头上调产品报价-这一分支或面临长期短缺](https://www.cls.cn/detail/2162567)
-- [【财联社】“科技+”点亮新消费-科创板智能消费企业助力打造品质国庆](https://www.cls.cn/detail/2162248)
 - [【雪球热帖】加快构建同创新相适应的科技金融体制](https://xueqiu.com/9193403816/313561745)
 - [【雪球热帖】国芯科技：自主芯片技术突破，AIMCU重塑行业格局](https://xueqiu.com/8151841495/313402043)
 - [......【查看更多】......](/details/tags/tech.md)
