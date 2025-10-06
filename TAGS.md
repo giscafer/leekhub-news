@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-10-06 02:50:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-10-06 03:38:49。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -29,8 +29,8 @@
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
 - [【财联社】大模型激战正酣！大厂节前、节中进展不停-争夺下一代操作系统主导权](https://www.cls.cn/detail/2162673)
-- [【财联社】OpenAI再造爆款？AI视频社交应用Sora问鼎苹果热门App榜单](https://www.cls.cn/detail/2162309)
 - [【财联社】“抢场地、抢演员、AIGC助力”-日均百部短剧齐拍-实探郑州短剧基地|一线](https://www.cls.cn/detail/2162019)
+- [【财联社】OpenAI再造爆款？AI视频社交应用Sora问鼎苹果热门App榜单](https://www.cls.cn/detail/2162309)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
