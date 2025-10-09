@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-10-09 00:45:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-10-09 02:02:23。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,7 +28,7 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
-- [【财联社】看跌英伟达的转折点？美国市场如何评价OpenAI-AMD巨额算力协议](https://www.cls.cn/detail/2163155)
+- [【财联社】对话李开复：大模型应用爆发会带来推理芯片更大增长](https://www.cls.cn/detail/2163578)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
