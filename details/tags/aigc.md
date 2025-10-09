@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-09 06:40:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-09 07:31:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -12,5 +12,4 @@
 - [2023-08-16-品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569) 
 - [2023-08-16-AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570) 
 - [2025-10-09-前方高能？OpenAI-CEO扬言：除英伟达、AMD外，还有更多大交易！](https://www.cls.cn/detail/2163825) 
-- [2025-10-08-对话李开复：大模型应用爆发会带来推理芯片更大增长](https://www.cls.cn/detail/2163578) 
 - [2024-07-17-9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09) 
