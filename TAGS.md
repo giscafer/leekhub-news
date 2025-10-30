@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-10-29 23:32:14。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-10-30 02:09:02。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,6 +28,7 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
+- [【财联社】OpenAI据悉计划最早明年下半年提交上市申请-|-环球市场](https://www.cls.cn/detail/2185569)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -45,9 +46,9 @@
 
 
 
-- [【财联社】10月29日投资避雷针：四连板人气股公告暂无量子科技业务-前三季度净亏损1.03亿元](https://www.cls.cn/detail/2184158)
-- [【财联社】芯片行业再迎利好？黄仁勋预告：本周访韩期间将宣布重大消息](https://www.cls.cn/detail/2184392)
 - [【财联社】黄仁勋称美国AI芯片需要向中国出口，外交部回应](https://www.cls.cn/detail/2184651)
+- [【财联社】芯片行业再迎利好？黄仁勋预告：本周访韩期间将宣布重大消息](https://www.cls.cn/detail/2184392)
+- [【财联社】10月29日投资避雷针：四连板人气股公告暂无量子科技业务-前三季度净亏损1.03亿元](https://www.cls.cn/detail/2184158)
 - [【雪球热帖】加快构建同创新相适应的科技金融体制](https://xueqiu.com/9193403816/313561745)
 - [【雪球热帖】国芯科技：自主芯片技术突破，AIMCU重塑行业格局](https://xueqiu.com/8151841495/313402043)
 - [......【查看更多】......](/details/tags/tech.md)
