@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-12 03:43:45。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-12 04:36:35。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -65,7 +65,6 @@
 
 
 - [【AI财经社】茅台来了一位女将](https://www.aicaijing.com.cn/article/18587)
-- [【财联社】刚捐了1万股茅台，段永平又捐了2.2亿](https://www.cls.cn/detail/2197178)
 - [......【查看更多】......](/details/tags/xiaofei.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
