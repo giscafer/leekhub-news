@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-12 05:35:04。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-12 06:41:00。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -99,7 +99,6 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛](https://www.cls.cn/detail/2197016)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
