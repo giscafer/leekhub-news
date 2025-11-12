@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-12 21:32:57。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-12 22:33:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -98,8 +98,8 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】【焦点复盘】银行等红利股强势护盘，沪指连续3日站稳4000点上方，细胞免疫概念午后逆势爆发](https://www.cls.cn/detail/2198475)
 - [【财联社】【每日收评】三大指数探底回升小幅收跌，防御性板块走强，农业银行再创新高](https://www.cls.cn/detail/2198413)
+- [【财联社】【焦点复盘】银行等红利股强势护盘，沪指连续3日站稳4000点上方，细胞免疫概念午后逆势爆发](https://www.cls.cn/detail/2198475)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
