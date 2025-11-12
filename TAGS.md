@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-12 08:38:49。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-12 09:35:09。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -29,7 +29,6 @@
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
 - [【财联社】OpenAI是“AI定海神针”？专家：它若倒了，科技巨头股价“腰斩”无人能逃！](https://www.cls.cn/detail/2197915)
-- [【财联社】2025乌镇峰会观察：AI大模型“上身”机器人-浙江本土科技力量成新焦点](https://www.cls.cn/detail/2196822)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -99,6 +98,7 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
+- [【财联社】【每日收评】三大指数探底回升小幅收跌，防御性板块走强，农业银行再创新高](https://www.cls.cn/detail/2198413)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
