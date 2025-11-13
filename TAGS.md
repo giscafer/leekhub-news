@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-13 08:38:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-13 09:35:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,6 +28,7 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
+- [【财联社】阿里秘密启动“千问”项目-将推出国际版与ChatGPT竞争](https://www.cls.cn/detail/2199601)
 - [【财联社】OpenAI是“AI定海神针”？专家：它若倒了，科技巨头股价“腰斩”无人能逃！](https://www.cls.cn/detail/2197915)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
@@ -46,6 +47,7 @@
 
 
 
+- [【财联社】事关安世半导体问题，中美大豆贸易等，商务部最新发声](https://www.cls.cn/detail/2199591)
 - [【雪球热帖】$淳中科技SH603516$-来，兄弟们，我们再来回顾下，2024年狗子给调研时，给出的几个关键点。1.公司在液冷老化测试设备方面是独家供应商还是有其他供应商？A：公...](https://xueqiu.com/6696662285/360586709)
 - [......【查看更多】......](/details/tags/tech.md)
 
