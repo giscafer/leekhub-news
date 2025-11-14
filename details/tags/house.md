@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-14 02:58:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-14 03:43:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -9,4 +9,3 @@
 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
-- [2025-11-13-10月金融数据出炉：资金转化为活期存款趋势延续，企业融资已不再单一依赖银行贷款](https://www.cls.cn/detail/2199773) 
