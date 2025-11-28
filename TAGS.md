@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-28 04:36:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-28 05:35:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -98,8 +98,8 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】地产债上演“过山车”行情，“22万科04”由跌超40%转涨超30%](https://www.cls.cn/detail/2212532)
 - [【财联社】银行“蓝V”扎堆小红书：流量易得，“人心”难留](https://www.cls.cn/detail/2212279)
+- [【财联社】地产债上演“过山车”行情，“22万科04”由跌超40%转涨超30%](https://www.cls.cn/detail/2212532)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
