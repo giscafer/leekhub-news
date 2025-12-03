@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-03 04:38:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-03 06:42:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -12,5 +12,4 @@
 - [2023-08-16-品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569) 
 - [2023-08-16-AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570) 
 - [2025-12-03-谷歌-VS-OpenAI：短短三年-“红色警报”发布方悄然互换！](https://www.cls.cn/detail/2218001) 
-- [2025-12-02-亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？](https://www.cls.cn/detail/2216943) 
 - [2024-07-17-9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09) 
