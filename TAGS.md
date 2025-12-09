@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-12-09 10:38:19。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-12-09 12:43:50。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,7 +28,6 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
-- [【财联社】后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍](https://www.cls.cn/detail/2222331)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -46,9 +45,9 @@
 
 
 
-- [【财联社】AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益](https://www.cls.cn/detail/2223631)
-- [【财联社】特朗普宣布：允许英伟达向中国出售H200芯片](https://www.cls.cn/detail/2223487)
 - [【财联社】美批准向中国出售英伟达H200人工智能芯片，外交部回应](https://www.cls.cn/detail/2223956)
+- [【财联社】特朗普宣布：允许英伟达向中国出售H200芯片](https://www.cls.cn/detail/2223487)
+- [【财联社】AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益](https://www.cls.cn/detail/2223631)
 - [【雪球热帖】$淳中科技SH603516$-来，兄弟们，我们再来回顾下，2024年狗子给调研时，给出的几个关键点。1.公司在液冷老化测试设备方面是独家供应商还是有其他供应商？A：公...](https://xueqiu.com/6696662285/360586709)
 - [......【查看更多】......](/details/tags/tech.md)
 
@@ -102,8 +101,8 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】直辖市也跟了！重庆两家银行官宣入围个人消费贷地方贴息，川贵渝外东部省份暂无动静](https://www.cls.cn/detail/2223668)
 - [【财联社】607亿央企资产大挪移：中国中冶剥离地产业务聚焦主业-股价应声下跌](https://www.cls.cn/detail/2224020)
+- [【财联社】直辖市也跟了！重庆两家银行官宣入围个人消费贷地方贴息，川贵渝外东部省份暂无动静](https://www.cls.cn/detail/2223668)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
