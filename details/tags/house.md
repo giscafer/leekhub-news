@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-10 09:36:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-10 10:39:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -9,3 +9,4 @@
 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
+- [2025-12-10-【数据看盘】实力游资扎堆地产股-3亿元资金抢筹神农种业](https://www.cls.cn/detail/2225521) 
