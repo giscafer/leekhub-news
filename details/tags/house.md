@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-23 03:50:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-23 05:37:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 三傻
 
@@ -9,3 +9,4 @@
 
 - [2023-08-16-银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565) 
 - [2023-08-16-福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567) 
+- [2025-12-23-全国住房城乡建设工作会议：2026年要着力稳定房地产市场-因城施策控增量、去库存、优供给](https://www.cls.cn/detail/2237363) 
