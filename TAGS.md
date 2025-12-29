@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-12-28 23:33:24。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-12-29 00:47:02。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -63,6 +63,7 @@
 
 
 - [【AI财经社】茅台来了一位女将](https://www.aicaijing.com.cn/article/18587)
+- [【财联社】行业深度调整-明年如何破局？贵州茅台管理层在经销商大会“划重点”](https://www.cls.cn/detail/2242154)
 - [......【查看更多】......](/details/tags/xiaofei.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
