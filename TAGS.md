@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-12-30 08:40:28。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-12-30 09:37:07。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -79,6 +79,7 @@
 
 
 
+- [【财联社】“AI+教育”成这场收官发布会重头戏-明年将出台相关政策](https://www.cls.cn/detail/2244074)
 - [......【查看更多】......](/details/tags/teach.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
