@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-01-04 14:34:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-04 16:37:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 消费
 
@@ -8,4 +8,3 @@
 
 
 - [2023-08-21-茅台来了一位女将](https://www.aicaijing.com.cn/article/18587) 
-- [2026-01-03-i茅台：飞天茅台每人每日最多买6瓶](https://www.cls.cn/detail/2246692) 
