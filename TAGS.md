@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-01-11 11:32:09。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-01-11 13:38:38。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -99,7 +99,6 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
-- [【财联社】独家|房地产融资协调机制迎重磅调整-符合条件“白名单”项目贷款可展期5年](https://www.cls.cn/detail/2252571)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
