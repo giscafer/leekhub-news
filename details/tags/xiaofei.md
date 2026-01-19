@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-01-19 00:47:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-19 02:12:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 消费
 
@@ -8,3 +8,4 @@
 
 
 - [2023-08-21-茅台来了一位女将](https://www.aicaijing.com.cn/article/18587) 
+- [2026-01-18-贵州茅台：谨防飞天茅台虚假申购](https://www.cls.cn/detail/2261318) 

@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-01-19 00:47:11。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-01-19 02:12:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,6 +28,7 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
+- [【财联社】OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？](https://www.cls.cn/detail/2261328)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -45,10 +46,8 @@
 
 
 
-- [【财联社】拟新增存储芯片封测年产能84.96万片-存储芯片概念股涨停-本周机构密集调研相关上市公司](https://www.cls.cn/detail/2261495)
 - [【财联社】周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税](https://www.cls.cn/detail/2261399)
-- [【财联社】我国芯片制造核心装备取得重要突破](https://www.cls.cn/detail/2261102)
-- [【财联社】性能突破性提升！我国攻克半导体材料世界难题](https://www.cls.cn/detail/2261067)
+- [【财联社】拟新增存储芯片封测年产能84.96万片-存储芯片概念股涨停-本周机构密集调研相关上市公司](https://www.cls.cn/detail/2261495)
 - [【雪球热帖】$淳中科技SH603516$-来，兄弟们，我们再来回顾下，2024年狗子给调研时，给出的几个关键点。1.公司在液冷老化测试设备方面是独家供应商还是有其他供应商？A：公...](https://xueqiu.com/6696662285/360586709)
 - [......【查看更多】......](/details/tags/tech.md)
 
@@ -67,6 +66,7 @@
 
 
 - [【AI财经社】茅台来了一位女将](https://www.aicaijing.com.cn/article/18587)
+- [【财联社】贵州茅台：谨防飞天茅台虚假申购](https://www.cls.cn/detail/2261318)
 - [......【查看更多】......](/details/tags/xiaofei.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
