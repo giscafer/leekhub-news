@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-01-26 06:42:55。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-01-26 07:38:23。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -29,7 +29,6 @@
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
 - [【财联社】印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录-将加码“AI+终端”](https://www.cls.cn/detail/2269386)
-- [【财联社】银河通用成为2026春晚指定具身大模型机器人](https://www.cls.cn/detail/2268904)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
