@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-02-15 07:41:46。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-02-15 08:42:15。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,8 +28,8 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
-- [【财联社】1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场](https://www.cls.cn/detail/2290186)
 - [【财联社】美国被曝对委内瑞拉军事行动中使用人工智能模型](https://www.cls.cn/detail/2290485)
+- [【财联社】1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场](https://www.cls.cn/detail/2290186)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
