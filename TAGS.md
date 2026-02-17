@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-02-17 04:14:38。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-02-17 08:43:59。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -29,8 +29,10 @@
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
 - [【财联社】马年春晚黑科技！四家机器人同台献技-AI大模型渗透内容制作](https://www.cls.cn/detail/2290959)
+- [【财联社】从模型到算力再到场景-AI点亮上海年味|2026新春走基层](https://www.cls.cn/detail/2290743)
+- [【财联社】国内大模型“新品潮”引爆预期-港股AI概念股再度爆发](https://www.cls.cn/detail/2290780)
+- [【财联社】OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理](https://www.cls.cn/detail/2290903)
 - [【财联社】告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程](https://www.cls.cn/detail/2290650)
-- [【财联社】1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场](https://www.cls.cn/detail/2290186)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -48,6 +50,7 @@
 
 
 
+- [【财联社】从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台](https://www.cls.cn/detail/2291102)
 - [【财联社】硬科技组团花式整活儿，马年春晚有多硬核？｜新春万象录](https://www.cls.cn/detail/2290994)
 - [【雪球热帖】$淳中科技SH603516$-来，兄弟们，我们再来回顾下，2024年狗子给调研时，给出的几个关键点。1.公司在液冷老化测试设备方面是独家供应商还是有其他供应商？A：公...](https://xueqiu.com/6696662285/360586709)
 - [......【查看更多】......](/details/tags/tech.md)
