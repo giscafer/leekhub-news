@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-12 06:44:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-12 14:44:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -12,5 +12,4 @@
 - [2023-08-16-品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569) 
 - [2023-08-16-AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570) 
 - [2026-03-12-2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相](https://www.cls.cn/detail/2310365) 
-- [2026-03-11-涨幅高达400%！腾讯云官宣AI模型调价-“龙虾”爆火或强化Token通胀](https://www.cls.cn/detail/2309524) 
 - [2024-07-17-9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09) 
