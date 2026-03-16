@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-16 12:45:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-16 14:48:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## AIGC
 
@@ -12,5 +12,4 @@
 - [2023-08-16-品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569) 
 - [2023-08-16-AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570) 
 - [2026-03-16-3月16日投资避雷针：315晚会曝光AI大模型被投毒-给AI投毒已成产业链](https://www.cls.cn/detail/2313556) 
-- [2026-03-15-“3·15”晚会：起底荐股分成骗局-给AI大模型投毒已成产业链](https://www.cls.cn/detail/2313341) 
 - [2024-07-17-9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09) 
