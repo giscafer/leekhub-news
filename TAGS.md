@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-21 05:43:04。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-21 07:40:11。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -99,6 +99,7 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
+- [【财联社】中小险企因偿付能力压力减仓？多位保险机构人士：个别正常调整影响小，不改增持趋势](https://www.cls.cn/detail/2320288)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
