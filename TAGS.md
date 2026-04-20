@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-20 08:12:56。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-20 11:00:15。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -97,6 +97,7 @@
 
 - [【AI财经社】银行理财少了2万亿](https://www.aicaijing.com.cn/article/18565)
 - [【AI财经社】福建地产大佬，押上全部身家](https://www.aicaijing.com.cn/article/18567)
+- [【财联社】机器人马拉松爆火背后，商业银行都有哪些布局？多家银行正“花样百出”杀入赛道](https://www.cls.cn/detail/2349172)
 - [......【查看更多】......](/details/tags/house.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
