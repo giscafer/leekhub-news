@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-24 02:14:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-24 06:13:47。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -28,6 +28,7 @@
 - [【AI财经社】大模型不能再继续“裸奔”了](https://www.aicaijing.com.cn/article/18574)
 - [【AI财经社】品玩大模型产业主题论坛上海站开幕在即-首轮嘉宾阵容公布](https://www.aicaijing.com.cn/article/18569)
 - [【AI财经社】AIGC生态建设白热化，百度飞桨已生产80万个模型](https://www.aicaijing.com.cn/article/18570)
+- [【财联社】OpenAI深夜王炸！GPT-5.5正式发布：更会编程和使用计算机的最强模型](https://www.cls.cn/detail/2354272)
 - [【投资界】9.11和9.9，大模型几乎全翻车了](https://posts.careerengine.us/p/6697778c44726b29bffa3a09)
 - [......【查看更多】......](/details/tags/aigc.md)
 
@@ -45,6 +46,7 @@
 
 
 
+- [【财联社】“CPU重归AI核心地位”！英特尔财报会实录：半导体市场规模已近万亿美元](https://www.cls.cn/detail/2354408)
 - [【财联社】直击“新股王”源杰科技股东会：AI需求“指数级增长”-设备到场后产能将逐季释放](https://www.cls.cn/detail/2353083)
 - [【雪球热帖】$淳中科技SH603516$-来，兄弟们，我们再来回顾下，2024年狗子给调研时，给出的几个关键点。1.公司在液冷老化测试设备方面是独家供应商还是有其他供应商？A：公...](https://xueqiu.com/6696662285/360586709)
 - [......【查看更多】......](/details/tags/tech.md)
