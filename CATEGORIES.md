@@ -1,6 +1,6 @@
 ##
 
-:alarm_clock: 更新时间: 2026-05-11 05:45:54，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-11 13:25:37，:rocket: 更新条数: +13， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -48,26 +48,26 @@
 </summary>
 
 
+- [2026-05-11-券商新增“115%即时平仓线”，释放什么信号？](https://www.cls.cn/detail/2367600)  
+- [2026-05-11-CPU、存储、光通信……华尔街解读AI股史诗级狂热：市场热衷追逐“瓶颈”！](https://www.cls.cn/detail/2367427)  
+- [2026-05-11-5月11日投资避雷针：两家上市公司涉嫌欺诈发行-将强制退市](https://www.cls.cn/detail/2367404)  
 - [2026-05-11-美国总统特朗普将对中国进行国事访问](https://www.cls.cn/detail/2367458)  
-- [2026-05-11-5月11日投资避雷针：两家上市公司涉嫌欺诈发行-将强制退市](https://www.cls.cn/detail/2367404) ![](/assets/new.png)  
-- [2026-05-11-CPU、存储、光通信……华尔街解读AI股史诗级狂热：市场热衷追逐“瓶颈”！](https://www.cls.cn/detail/2367427) ![](/assets/new.png)  
-- [2026-05-11-券商新增“115%即时平仓线”，释放什么信号？](https://www.cls.cn/detail/2367600) ![](/assets/new.png)  
-- [2026-05-10-月之暗面Kimi创始人在人民日报刊文：让中国大模型成为全球创新的基座](https://www.cls.cn/detail/2367387)  
-- [2026-05-10-中国驻英大使约见英官员，当面提出严正交涉](https://www.cls.cn/detail/2367253)  
-- [2026-05-10-2000年与2026年清晰对比：纳斯达克指数领涨股出现了哪些变化？](https://www.cls.cn/detail/2367113)  
-- [2026-05-10-伊朗最高领袖会见武装部队司令并下达新指令](https://www.cls.cn/detail/2367274)  
-- [2026-05-10-伊朗已回应美国提出的结束战争方案](https://www.cls.cn/detail/2367306)  
-- [2026-05-10-A股900亿红包来了！工行、农行下周同日派息](https://www.cls.cn/detail/2367236)  
-- [2026-05-10-除了算力，还能买什么？十大券商策略来了](https://www.cls.cn/detail/2367265)  
-- [2026-05-10-普京：俄乌冲突正走向结束](https://www.cls.cn/detail/2367122)  
-- [2026-05-10-张文宏最新解读：此次汉坦病毒疫情核心在于传播路径异常-在邮轮上暴发极其罕见](https://www.cls.cn/detail/2367086)  
-- [2026-05-10-“科技叙事”正在重构资本市场底色](https://www.cls.cn/detail/2367094)  
-- [2026-05-10-字节再加码！全球AI资本开支持续上修-算力步入全链通胀](https://www.cls.cn/detail/2367107)  
-- [2026-05-10-高溢价之忧！上交所因何重点监控全球芯片LOF，还有哪些高溢价品种要提防风险？](https://www.cls.cn/detail/2367249)  
-- [2026-05-10-周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件](https://www.cls.cn/detail/2367192)  
-- [2026-05-10-中韩半导体ETF华泰柏瑞、全球芯片LOF明日停牌一小时](https://www.cls.cn/detail/2367295)  
+- [2026-05-11-加速渗透！宠物AI手机交付订单达数万台-距离真正“人宠互通”还有多远](https://www.cls.cn/detail/2367714) ![](/assets/new.png)  
+- [2026-05-11-原油不再是主角！能源危机的二阶段来了：“成品油风暴”](https://www.cls.cn/detail/2367735) ![](/assets/new.png)  
+- [2026-05-11-HBM封装有了新选项？SK海力士或联手英特尔-EMIB技术获青睐](https://www.cls.cn/detail/2367799) ![](/assets/new.png)  
+- [2026-05-11-“债拍”疯狂：以拍卖之名-高息资金涌入城投类定融产品](https://www.cls.cn/detail/2367800) ![](/assets/new.png)  
+- [2026-05-11-外交部介绍特朗普访华具体安排和中方期待](https://www.cls.cn/detail/2367815) ![](/assets/new.png)  
+- [2026-05-11-【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发](https://www.cls.cn/detail/2367918) ![](/assets/new.png)  
+- [2026-05-11-【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板](https://www.cls.cn/detail/2367989) ![](/assets/new.png)  
+- [2026-05-11-【数据看盘】机构与北向资金激烈博弈大族激光-沪深300ETF上周份额缩减](https://www.cls.cn/detail/2368003) ![](/assets/new.png)  
+- [2026-05-11-首家销售佣金归零！头部公募子公司率先全额返还尾随佣金](https://www.cls.cn/detail/2368063) ![](/assets/new.png)  
+- [2026-05-11-一波金融精英“上岸”证监会！公示名单有看点](https://www.cls.cn/detail/2368096) ![](/assets/new.png)  
+- [2026-05-11-两融余额2.8万亿创历史新高，杠杆水平却并非高位？六大指标解读](https://www.cls.cn/detail/2368159) ![](/assets/new.png)  
+- [2026-05-11-央行：继续实施好适度宽松的货币政策](https://www.cls.cn/detail/2368168) ![](/assets/new.png)  
+- [2026-05-11-特朗普拒绝伊朗和平提案-美股期指集体走低-|-今夜看点](https://www.cls.cn/detail/2368275) ![](/assets/new.png)  
 - [2026-05-10-【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时](https://www.cls.cn/detail/2367370)  
-- [2026-05-09-AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕](https://www.cls.cn/detail/2366653)  
+- [2026-05-10-中韩半导体ETF华泰柏瑞、全球芯片LOF明日停牌一小时](https://www.cls.cn/detail/2367295)  
+- [2026-05-10-周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件](https://www.cls.cn/detail/2367192)  
 - [......【查看更多】......](/details/财联社.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
